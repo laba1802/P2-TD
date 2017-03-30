@@ -1,0 +1,29 @@
+Command line:
+   numberFloor_controller_tb_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  65460
+
+Wed Mar 29 15:55:44 2017
+
+
+ Elaboration Time: 0.28125 sec
+
+ Current Memory Usage: 1337.27 Meg
+
+ Total Signals          : 18
+ Total Nets             : 19
+ Total Signal Drivers   : 10
+ Total Blocks           : 3
+ Total Primitive Blocks : 2
+ Total Processes        : 13
+ Total Traceable Variables  : 23
+ Total Scalar Nets and Variables : 105
+Total Line Count : 37
+
+ Total Simulation Time: 0.53125 sec
+
+ Current Memory Usage: 1337.27 Meg
+
+Wed Mar 29 15:55:59 2017
+

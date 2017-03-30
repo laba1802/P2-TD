@@ -22,13 +22,22 @@
   <sourceproject xmlns="http://www.xilinx.com/XMLSchema" xil_pn:fileType="FILE_XISE" xil_pn:name="Proyecto2Taller.xise"/>
 
   <files xmlns="http://www.xilinx.com/XMLSchema">
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="buttons_controller_tb_isim_beh.exe"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="floor_comparator_tb_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="floor_input_comparator_tb_beh.prj"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="floor_input_comparator_tb_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_ISIM_MISC" xil_pn:name="floor_input_comparator_tb_isim_beh.wdb"/>
     <file xil_pn:fileType="FILE_LOG" xil_pn:name="fuse.log"/>
     <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="isim"/>
     <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_CMD" xil_pn:name="isim.cmd"/>
     <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_LOG" xil_pn:name="isim.log"/>
-    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="state_machine_tb_beh.prj"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="numberFloor_controller_tb_beh.prj"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="numberFloor_controller_tb_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_ISIM_MISC" xil_pn:name="numberFloor_controller_tb_isim_beh.wdb"/>
     <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="state_machine_tb_isim_beh.exe"/>
-    <file xil_pn:fileType="FILE_ISIM_MISC" xil_pn:name="state_machine_tb_isim_beh.wdb"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="switch_input_comparator_tb_beh.prj"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="switch_input_comparator_tb_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_ISIM_MISC" xil_pn:name="switch_input_comparator_tb_isim_beh.wdb"/>
     <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_INI" xil_pn:name="xilinxsim.ini"/>
   </files>
 
@@ -37,18 +46,31 @@
       <status xil_pn:value="SuccessfullyRun"/>
       <status xil_pn:value="ReadyToRun"/>
     </transform>
-    <transform xil_pn:end_ts="1490145018" xil_pn:in_ck="7828519866448710184" xil_pn:name="TRAN_copyAbstractToPostAbstractSimulation" xil_pn:start_ts="1490145017">
+    <transform xil_pn:end_ts="1490836598" xil_pn:in_ck="-2482146845742780214" xil_pn:name="TRAN_copyAbstractToPostAbstractSimulation" xil_pn:start_ts="1490836598">
       <status xil_pn:value="SuccessfullyRun"/>
       <status xil_pn:value="ReadyToRun"/>
-      <outfile xil_pn:name="comparatorQueue.v"/>
+      <status xil_pn:value="OutOfDateForInputs"/>
+      <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="InputChanged"/>
+      <status xil_pn:value="OutputChanged"/>
+      <outfile xil_pn:name="buttons_controller.v"/>
+      <outfile xil_pn:name="buttons_controller_tb.v"/>
+      <outfile xil_pn:name="floor_comparator.v"/>
+      <outfile xil_pn:name="floor_comparator_tb.v"/>
+      <outfile xil_pn:name="floor_input_comparator.v"/>
+      <outfile xil_pn:name="floor_input_comparator_tb.v"/>
+      <outfile xil_pn:name="numberFloor_controller.v"/>
+      <outfile xil_pn:name="numberFloor_controller_tb.v"/>
       <outfile xil_pn:name="state_machine.v"/>
       <outfile xil_pn:name="state_machine_tb.v"/>
+      <outfile xil_pn:name="switch_input_comparator.v"/>
+      <outfile xil_pn:name="switch_input_comparator_tb.v"/>
     </transform>
-    <transform xil_pn:end_ts="1489633694" xil_pn:name="TRAN_xawsToSimhdl" xil_pn:prop_ck="-585763742718297663" xil_pn:start_ts="1489633694">
+    <transform xil_pn:end_ts="1490836462" xil_pn:name="TRAN_xawsToSimhdl" xil_pn:prop_ck="8668841342960280052" xil_pn:start_ts="1490836462">
       <status xil_pn:value="SuccessfullyRun"/>
       <status xil_pn:value="ReadyToRun"/>
     </transform>
-    <transform xil_pn:end_ts="1489633694" xil_pn:name="TRAN_schematicsToHdlSim" xil_pn:prop_ck="-2924467402466364545" xil_pn:start_ts="1489633694">
+    <transform xil_pn:end_ts="1490836462" xil_pn:name="TRAN_schematicsToHdlSim" xil_pn:prop_ck="3587860410271113650" xil_pn:start_ts="1490836462">
       <status xil_pn:value="SuccessfullyRun"/>
       <status xil_pn:value="ReadyToRun"/>
     </transform>
@@ -56,31 +78,51 @@
       <status xil_pn:value="SuccessfullyRun"/>
       <status xil_pn:value="ReadyToRun"/>
     </transform>
-    <transform xil_pn:end_ts="1490145018" xil_pn:in_ck="7828519866448710184" xil_pn:name="TRAN_copyPostAbstractToPreSimulation" xil_pn:start_ts="1490145018">
+    <transform xil_pn:end_ts="1490836598" xil_pn:in_ck="-2482146845742780214" xil_pn:name="TRAN_copyPostAbstractToPreSimulation" xil_pn:start_ts="1490836598">
       <status xil_pn:value="SuccessfullyRun"/>
       <status xil_pn:value="ReadyToRun"/>
-      <outfile xil_pn:name="comparatorQueue.v"/>
+      <status xil_pn:value="OutOfDateForInputs"/>
+      <status xil_pn:value="OutOfDateForPredecessor"/>
+      <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="InputChanged"/>
+      <status xil_pn:value="OutputChanged"/>
+      <outfile xil_pn:name="buttons_controller.v"/>
+      <outfile xil_pn:name="buttons_controller_tb.v"/>
+      <outfile xil_pn:name="floor_comparator.v"/>
+      <outfile xil_pn:name="floor_comparator_tb.v"/>
+      <outfile xil_pn:name="floor_input_comparator.v"/>
+      <outfile xil_pn:name="floor_input_comparator_tb.v"/>
+      <outfile xil_pn:name="numberFloor_controller.v"/>
+      <outfile xil_pn:name="numberFloor_controller_tb.v"/>
       <outfile xil_pn:name="state_machine.v"/>
       <outfile xil_pn:name="state_machine_tb.v"/>
+      <outfile xil_pn:name="switch_input_comparator.v"/>
+      <outfile xil_pn:name="switch_input_comparator_tb.v"/>
     </transform>
-    <transform xil_pn:end_ts="1490145034" xil_pn:in_ck="7828519866448710184" xil_pn:name="TRAN_ISimulateBehavioralModelRunFuse" xil_pn:prop_ck="5260812978287115329" xil_pn:start_ts="1490145018">
+    <transform xil_pn:end_ts="1490836603" xil_pn:in_ck="-2482146845742780214" xil_pn:name="TRAN_ISimulateBehavioralModelRunFuse" xil_pn:prop_ck="-534704016750706009" xil_pn:start_ts="1490836598">
       <status xil_pn:value="SuccessfullyRun"/>
       <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForInputs"/>
+      <status xil_pn:value="OutOfDateForPredecessor"/>
       <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="InputChanged"/>
       <status xil_pn:value="OutputChanged"/>
+      <outfile xil_pn:name="floor_input_comparator_tb_beh.prj"/>
+      <outfile xil_pn:name="floor_input_comparator_tb_isim_beh.exe"/>
       <outfile xil_pn:name="fuse.log"/>
       <outfile xil_pn:name="isim"/>
       <outfile xil_pn:name="isim.log"/>
-      <outfile xil_pn:name="state_machine_tb_beh.prj"/>
-      <outfile xil_pn:name="state_machine_tb_isim_beh.exe"/>
       <outfile xil_pn:name="xilinxsim.ini"/>
     </transform>
-    <transform xil_pn:end_ts="1490225596" xil_pn:in_ck="-4329221268564105287" xil_pn:name="TRAN_ISimulateBehavioralModel" xil_pn:prop_ck="-6965742893286063228" xil_pn:start_ts="1490225589">
+    <transform xil_pn:end_ts="1490836604" xil_pn:in_ck="-2693187246756806952" xil_pn:name="TRAN_ISimulateBehavioralModel" xil_pn:prop_ck="7232628976126524074" xil_pn:start_ts="1490836603">
       <status xil_pn:value="SuccessfullyRun"/>
       <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForPredecessor"/>
+      <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="OutputChanged"/>
+      <outfile xil_pn:name="floor_input_comparator_tb_isim_beh.wdb"/>
       <outfile xil_pn:name="isim.cmd"/>
       <outfile xil_pn:name="isim.log"/>
-      <outfile xil_pn:name="state_machine_tb_isim_beh.wdb"/>
     </transform>
   </transforms>
 

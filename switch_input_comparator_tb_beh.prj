@@ -1,0 +1,3 @@
+verilog work "switch_input_comparator.v"
+verilog work "switch_input_comparator_tb.v"
+verilog work "C:/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v"
