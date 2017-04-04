@@ -1,0 +1,30 @@
+//! **************************************************************************
+// Written by: Map P.20131013 on Tue Apr 04 14:50:30 2017
+//! **************************************************************************
+
+SCHEMATIC START;
+COMP "e" LOCATE = SITE "M14" LEVEL 1;
+COMP "f" LOCATE = SITE "N14" LEVEL 1;
+COMP "g" LOCATE = SITE "L14" LEVEL 1;
+COMP "an<0>" LOCATE = SITE "N16" LEVEL 1;
+COMP "an<1>" LOCATE = SITE "N15" LEVEL 1;
+COMP "an<2>" LOCATE = SITE "P18" LEVEL 1;
+COMP "switch_Down_Third" LOCATE = SITE "N8" LEVEL 1;
+COMP "an<3>" LOCATE = SITE "P17" LEVEL 1;
+COMP "dp" LOCATE = SITE "M13" LEVEL 1;
+COMP "switch_Down_Fourth" LOCATE = SITE "V9" LEVEL 1;
+COMP "clk" LOCATE = SITE "V10" LEVEL 1;
+COMP "button_FourthFloor" LOCATE = SITE "D9" LEVEL 1;
+COMP "button_ThirdFloor" LOCATE = SITE "C9" LEVEL 1;
+COMP "switch_Up_First" LOCATE = SITE "T5" LEVEL 1;
+COMP "switch_Up_Second" LOCATE = SITE "U8" LEVEL 1;
+COMP "button_SecondFloor" LOCATE = SITE "C4" LEVEL 1;
+COMP "switch_Up_Third" LOCATE = SITE "M8" LEVEL 1;
+COMP "button_FirstFloor" LOCATE = SITE "A8" LEVEL 1;
+COMP "switch_Down_Second" LOCATE = SITE "V8" LEVEL 1;
+COMP "a" LOCATE = SITE "T17" LEVEL 1;
+COMP "b" LOCATE = SITE "T18" LEVEL 1;
+COMP "c" LOCATE = SITE "U17" LEVEL 1;
+COMP "d" LOCATE = SITE "U18" LEVEL 1;
+SCHEMATIC END;
+

@@ -23,14 +23,15 @@ module numberFloor_controller(
     input button2,
     input button3,
     input button4,
-    output reg [1:0] floor_destiny
+    output reg [2:0] floor_destiny
     );
 
 	always @ * begin
-		if(button1) floor_destiny = 00;
-		else if(button2) floor_destiny = 01;
-		else if(button3) floor_destiny = 10;
-		else if(button4) floor_destiny = 11;
+		if(button1) floor_destiny = 3'b000;
+		else if(button2) floor_destiny = 3'b001;
+		else if(button3) floor_destiny = 3'b010;
+		else if(button4) floor_destiny = 3'b011;
+		else floor_destiny = 3'b100;
 	end
 
 endmodule

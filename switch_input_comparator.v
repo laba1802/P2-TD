@@ -22,24 +22,24 @@ module switch_input_comparator(
     input down_up_Flag,
     input [1:0] pos0Mem,
     input down_up_Input,
-    input [1:0] floorCall_Input,
+    input [2:0] floorCall_Input,
     input [1:0] actualFloor,
-    output reg [1:0] nextMemoryFloor,
-    output reg BeginEndMemory_Flag
+    output reg [2:0] nextMemoryFloor,
+    output reg [1:0] BeginEndMemory_Flag
     );
-
-	always @ * begin
-		if (down_up_Flag == down_up_Input)begin
-			if((floorCall_Input > actualFloor && floorCall_Input < pos0Mem) || (floorCall_Input < actualFloor && floorCall_Input > pos0Mem))begin
-				nextMemoryFloor = floorCall_Input;
-				BeginEndMemory_Flag = 1;
+		
+	always @ (down_up_Input or floorCall_Input) begin
+			if (down_up_Flag == down_up_Input)begin
+				if((floorCall_Input > actualFloor && floorCall_Input < pos0Mem) || (floorCall_Input < actualFloor && floorCall_Input > pos0Mem))begin
+					nextMemoryFloor = floorCall_Input;
+					BeginEndMemory_Flag = 2'b11;
+				end else begin
+					nextMemoryFloor = floorCall_Input;
+					BeginEndMemory_Flag = 2'b10;
+				end
 			end else begin
 				nextMemoryFloor = floorCall_Input;
-				BeginEndMemory_Flag = 0;
+				BeginEndMemory_Flag = 2'b10;
 			end
-		end else begin
-			nextMemoryFloor = floorCall_Input;
-			BeginEndMemory_Flag = 0;
-		end
 	end
 endmodule

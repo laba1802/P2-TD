@@ -1,0 +1,53 @@
+#-----------------------------------------------------------
+# PlanAhead v14.7 (64-bit)
+# Build 321239 by xbuild on Fri Sep 27 19:29:51 MDT 2013
+# Start of session at: Sun Apr 02 01:11:04 2017
+# Process ID: 6624
+# Log file: D:/Proyectos/Proyecto2Taller/P2-TD/planAhead_run_2/planAhead.log
+# Journal file: D:/Proyectos/Proyecto2Taller/P2-TD/planAhead_run_2/planAhead.jou
+#-----------------------------------------------------------
+start_gui
+source D:/Proyectos/Proyecto2Taller/P2-TD/pa.fromHdl.tcl
+update_compile_order -fileset sim_1
+set_property iostandard LVCMOS33 [get_ports [list button_FirstFloor]]
+startgroup
+set_property package_pin A8 [get_ports button_FirstFloor]
+endgroup
+startgroup
+set_property package_pin D9 [get_ports button_FourthFloor]
+endgroup
+set_property iostandard LVCMOS33 [get_ports [list button_FourthFloor]]
+startgroup
+set_property package_pin C4 [get_ports button_SecondFloor]
+endgroup
+set_property iostandard LVCMOS33 [get_ports [list button_SecondFloor]]
+startgroup
+set_property package_pin C9 [get_ports button_ThirdFloor]
+endgroup
+set_property iostandard LVCMOS33 [get_ports [list button_ThirdFloor]]
+set_property iostandard LVCMOS33 [get_ports [list switch_Down_Fourth]]
+set_property iostandard LVCMOS33 [get_ports [list switch_Down_Second]]
+set_property iostandard LVCMOS33 [get_ports [list switch_Down_Third]]
+set_property iostandard LVCMOS33 [get_ports [list switch_Up_First]]
+set_property iostandard LVCMOS33 [get_ports [list switch_Up_Third]]
+set_property iostandard LVCMOS33 [get_ports [list switch_Up_Second]]
+set_property package_pin "" [get_ports [list  switch_Down_Fourth]]
+startgroup
+set_property package_pin T5 [get_ports switch_Up_First]
+endgroup
+startgroup
+set_property package_pin V8 [get_ports switch_Down_Second]
+endgroup
+startgroup
+set_property package_pin U8 [get_ports switch_Up_Second]
+endgroup
+startgroup
+set_property package_pin N8 [get_ports switch_Down_Third]
+endgroup
+startgroup
+set_property package_pin M8 [get_ports switch_Up_Third]
+endgroup
+startgroup
+set_property package_pin V9 [get_ports switch_Down_Fourth]
+endgroup
+save_constraints

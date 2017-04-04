@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<Interface Version="1" Minor="1">
+	<Ifc Id="ROOT" Top="1">
+		<Bus Id="an">
+			<Port Id="3" Dir="OUT"/>
+			<Port Id="2" Dir="OUT"/>
+			<Port Id="1" Dir="OUT"/>
+			<Port Id="0" Dir="OUT"/>
+		</Bus>
+		<Port Id="switch_Up_First" Dir="IN"/>
+		<Port Id="switch_Up_Second" Dir="IN"/>
+		<Port Id="switch_Down_Second" Dir="IN"/>
+		<Port Id="switch_Up_Third" Dir="IN"/>
+		<Port Id="switch_Down_Third" Dir="IN"/>
+		<Port Id="switch_Down_Fourth" Dir="IN"/>
+		<Port Id="clk" Dir="IN"/>
+		<Port Id="button_FirstFloor" Dir="IN"/>
+		<Port Id="button_SecondFloor" Dir="IN"/>
+		<Port Id="button_ThirdFloor" Dir="IN"/>
+		<Port Id="button_FourthFloor" Dir="IN"/>
+		<Port Id="reset" Dir="IN"/>
+		<Port Id="a" Dir="OUT"/>
+		<Port Id="b" Dir="OUT"/>
+		<Port Id="c" Dir="OUT"/>
+		<Port Id="d" Dir="OUT"/>
+		<Port Id="e" Dir="OUT"/>
+		<Port Id="f" Dir="OUT"/>
+		<Port Id="g" Dir="OUT"/>
+		<Port Id="dp" Dir="OUT"/>
+	</Ifc>
+</Interface>
+

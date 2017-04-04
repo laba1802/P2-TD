@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=D:\Proyectos\Proyecto2Taller\P2-TD\top.ncd
+OUTFILE=D:\Proyectos\Proyecto2Taller\P2-TD\top.bit
+FAMILY=Spartan6
+PART=xc6slx16-3csg324
+WORKINGDIR=D:\Proyectos\Proyecto2Taller\P2-TD
+LICENSE=WebPack
+USER_INFO=211319384_0_0_414

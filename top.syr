@@ -1,0 +1,734 @@
+Release 14.7 - xst P.20131013 (nt64)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to xst/projnav.tmp
+
+
+Total REAL time to Xst completion: 1.00 secs
+Total CPU time to Xst completion: 0.22 secs
+ 
+--> Parameter xsthdpdir set to xst
+
+
+Total REAL time to Xst completion: 1.00 secs
+Total CPU time to Xst completion: 0.22 secs
+ 
+--> Reading design: top.prj
+
+TABLE OF CONTENTS
+  1) Synthesis Options Summary
+  2) HDL Parsing
+  3) HDL Elaboration
+  4) HDL Synthesis
+       4.1) HDL Synthesis Report
+  5) Advanced HDL Synthesis
+       5.1) Advanced HDL Synthesis Report
+  6) Low Level Synthesis
+  7) Partition Report
+  8) Design Summary
+       8.1) Primitive and Black Box Usage
+       8.2) Device utilization summary
+       8.3) Partition Resource Summary
+       8.4) Timing Report
+            8.4.1) Clock Information
+            8.4.2) Asynchronous Control Signals Information
+            8.4.3) Timing Summary
+            8.4.4) Timing Details
+            8.4.5) Cross Clock Domains Report
+
+
+=========================================================================
+*                      Synthesis Options Summary                        *
+=========================================================================
+---- Source Parameters
+Input File Name                    : "top.prj"
+Ignore Synthesis Constraint File   : NO
+
+---- Target Parameters
+Output File Name                   : "top"
+Output Format                      : NGC
+Target Device                      : xc6slx16-3-csg324
+
+---- Source Options
+Top Module Name                    : top
+Automatic FSM Extraction           : YES
+FSM Encoding Algorithm             : Auto
+Safe Implementation                : No
+FSM Style                          : LUT
+RAM Extraction                     : Yes
+RAM Style                          : Auto
+ROM Extraction                     : Yes
+Shift Register Extraction          : YES
+ROM Style                          : Auto
+Resource Sharing                   : YES
+Asynchronous To Synchronous        : NO
+Shift Register Minimum Size        : 2
+Use DSP Block                      : Auto
+Automatic Register Balancing       : No
+
+---- Target Options
+LUT Combining                      : Auto
+Reduce Control Sets                : Auto
+Add IO Buffers                     : YES
+Global Maximum Fanout              : 100000
+Add Generic Clock Buffer(BUFG)     : 16
+Register Duplication               : YES
+Optimize Instantiated Primitives   : NO
+Use Clock Enable                   : Auto
+Use Synchronous Set                : Auto
+Use Synchronous Reset              : Auto
+Pack IO Registers into IOBs        : Auto
+Equivalent register Removal        : YES
+
+---- General Options
+Optimization Goal                  : Speed
+Optimization Effort                : 1
+Power Reduction                    : NO
+Keep Hierarchy                     : No
+Netlist Hierarchy                  : As_Optimized
+RTL Output                         : Yes
+Global Optimization                : AllClockNets
+Read Cores                         : YES
+Write Timing Constraints           : NO
+Cross Clock Analysis               : NO
+Hierarchy Separator                : /
+Bus Delimiter                      : <>
+Case Specifier                     : Maintain
+Slice Utilization Ratio            : 100
+BRAM Utilization Ratio             : 100
+DSP48 Utilization Ratio            : 100
+Auto BRAM Packing                  : NO
+Slice Utilization Ratio Delta      : 5
+
+=========================================================================
+
+
+=========================================================================
+*                          HDL Parsing                                  *
+=========================================================================
+Analyzing Verilog file "D:\Proyectos\Proyecto2Taller\P2-TD\switch_input_comparator.v" into library work
+Parsing module <switch_input_comparator>.
+Analyzing Verilog file "D:\Proyectos\Proyecto2Taller\P2-TD\stateMachine_2.v" into library work
+Parsing module <stateMachine2>.
+Analyzing Verilog file "D:\Proyectos\Proyecto2Taller\P2-TD\numberFloor_controller.v" into library work
+Parsing module <numberFloor_controller>.
+Analyzing Verilog file "D:\Proyectos\Proyecto2Taller\P2-TD\memory.v" into library work
+Parsing module <memory>.
+WARNING:HDLCompiler:327 - "D:\Proyectos\Proyecto2Taller\P2-TD\memory.v" Line 65: Concatenation with unsized literal; will interpret as 32 bits
+WARNING:HDLCompiler:327 - "D:\Proyectos\Proyecto2Taller\P2-TD\memory.v" Line 75: Concatenation with unsized literal; will interpret as 32 bits
+WARNING:HDLCompiler:327 - "D:\Proyectos\Proyecto2Taller\P2-TD\memory.v" Line 88: Concatenation with unsized literal; will interpret as 32 bits
+Analyzing Verilog file "D:\Proyectos\Proyecto2Taller\P2-TD\floor_input_comparator.v" into library work
+Parsing module <floor_input_comparator>.
+Analyzing Verilog file "D:\Proyectos\Proyecto2Taller\P2-TD\floor_comparator.v" into library work
+Parsing module <floor_comparator>.
+Analyzing Verilog file "D:\Proyectos\Proyecto2Taller\P2-TD\displayController.v" into library work
+Parsing module <displayController>.
+Analyzing Verilog file "D:\Proyectos\Proyecto2Taller\P2-TD\buttons_controller.v" into library work
+Parsing module <buttons_controller>.
+Analyzing Verilog file "D:\Proyectos\Proyecto2Taller\P2-TD\top.v" into library work
+Parsing module <top>.
+
+=========================================================================
+*                            HDL Elaboration                            *
+=========================================================================
+
+Elaborating module <top>.
+
+Elaborating module <buttons_controller>.
+WARNING:HDLCompiler:189 - "D:\Proyectos\Proyecto2Taller\P2-TD\top.v" Line 56: Size mismatch in connection of port <floor_call>. Formal port size is 3-bit while actual signal size is 2-bit.
+
+Elaborating module <numberFloor_controller>.
+
+Elaborating module <floor_input_comparator>.
+"D:\Proyectos\Proyecto2Taller\P2-TD\floor_input_comparator.v" Line 32. $display AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA  3'b...
+WARNING:HDLCompiler:91 - "D:\Proyectos\Proyecto2Taller\P2-TD\floor_input_comparator.v" Line 33: Signal <down_up_Flag> missing in the sensitivity list is added for synthesis purposes. HDL and post-synthesis simulations may differ as a result.
+WARNING:HDLCompiler:91 - "D:\Proyectos\Proyecto2Taller\P2-TD\floor_input_comparator.v" Line 34: Signal <pos0Mem> missing in the sensitivity list is added for synthesis purposes. HDL and post-synthesis simulations may differ as a result.
+WARNING:HDLCompiler:91 - "D:\Proyectos\Proyecto2Taller\P2-TD\floor_input_comparator.v" Line 43: Signal <pos0Mem> missing in the sensitivity list is added for synthesis purposes. HDL and post-synthesis simulations may differ as a result.
+
+Elaborating module <switch_input_comparator>.
+WARNING:HDLCompiler:91 - "D:\Proyectos\Proyecto2Taller\P2-TD\switch_input_comparator.v" Line 32: Signal <down_up_Flag> missing in the sensitivity list is added for synthesis purposes. HDL and post-synthesis simulations may differ as a result.
+WARNING:HDLCompiler:91 - "D:\Proyectos\Proyecto2Taller\P2-TD\switch_input_comparator.v" Line 33: Signal <actualFloor> missing in the sensitivity list is added for synthesis purposes. HDL and post-synthesis simulations may differ as a result.
+WARNING:HDLCompiler:189 - "D:\Proyectos\Proyecto2Taller\P2-TD\top.v" Line 81: Size mismatch in connection of port <floorCall_Input>. Formal port size is 3-bit while actual signal size is 2-bit.
+WARNING:HDLCompiler:327 - "D:\Proyectos\Proyecto2Taller\P2-TD\memory.v" Line 65: Concatenation with unsized literal; will interpret as 32 bits
+WARNING:HDLCompiler:327 - "D:\Proyectos\Proyecto2Taller\P2-TD\memory.v" Line 75: Concatenation with unsized literal; will interpret as 32 bits
+WARNING:HDLCompiler:327 - "D:\Proyectos\Proyecto2Taller\P2-TD\memory.v" Line 88: Concatenation with unsized literal; will interpret as 32 bits
+
+Elaborating module <memory>.
+WARNING:HDLCompiler:413 - "D:\Proyectos\Proyecto2Taller\P2-TD\memory.v" Line 54: Result of 7-bit expression is truncated to fit in 3-bit target.
+"D:\Proyectos\Proyecto2Taller\P2-TD\memory.v" Line 57. $display 1MEM0  2'b..
+"D:\Proyectos\Proyecto2Taller\P2-TD\memory.v" Line 59. $display WWWWWW!!!!!!!!!!!!!!!!!!!!!!! 2'b.. 3'b... 3'b... 2'b.. 1'b.
+WARNING:HDLCompiler:413 - "D:\Proyectos\Proyecto2Taller\P2-TD\memory.v" Line 67: Result of 3-bit expression is truncated to fit in 2-bit target.
+"D:\Proyectos\Proyecto2Taller\P2-TD\memory.v" Line 68. $display 2MEM0  2'b..
+"D:\Proyectos\Proyecto2Taller\P2-TD\memory.v" Line 70. $display 3MEM0!!!  3'b...
+"D:\Proyectos\Proyecto2Taller\P2-TD\memory.v" Line 82. $display 3MEM0  2'b..
+WARNING:HDLCompiler:413 - "D:\Proyectos\Proyecto2Taller\P2-TD\memory.v" Line 90: Result of 3-bit expression is truncated to fit in 2-bit target.
+"D:\Proyectos\Proyecto2Taller\P2-TD\memory.v" Line 91. $display 4MEM0  2'b..
+"D:\Proyectos\Proyecto2Taller\P2-TD\memory.v" Line 102. $display 5MEM0  2'b..
+
+Elaborating module <floor_comparator>.
+"D:\Proyectos\Proyecto2Taller\P2-TD\floor_comparator.v" Line 30. $display POOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOS  2'b.. 2'b..
+
+Elaborating module <stateMachine2>.
+WARNING:HDLCompiler:91 - "D:\Proyectos\Proyecto2Taller\P2-TD\stateMachine_2.v" Line 52: Signal <deletePos0> missing in the sensitivity list is added for synthesis purposes. HDL and post-synthesis simulations may differ as a result.
+
+Elaborating module <displayController>.
+
+=========================================================================
+*                           HDL Synthesis                               *
+=========================================================================
+
+Synthesizing Unit <top>.
+    Related source file is "D:\Proyectos\Proyecto2Taller\P2-TD\top.v".
+    Summary:
+	no macro.
+Unit <top> synthesized.
+
+Synthesizing Unit <buttons_controller>.
+    Related source file is "D:\Proyectos\Proyecto2Taller\P2-TD\buttons_controller.v".
+    Summary:
+	inferred   3 Multiplexer(s).
+Unit <buttons_controller> synthesized.
+
+Synthesizing Unit <numberFloor_controller>.
+    Related source file is "D:\Proyectos\Proyecto2Taller\P2-TD\numberFloor_controller.v".
+    Summary:
+	inferred   3 Multiplexer(s).
+Unit <numberFloor_controller> synthesized.
+
+Synthesizing Unit <floor_input_comparator>.
+    Related source file is "D:\Proyectos\Proyecto2Taller\P2-TD\floor_input_comparator.v".
+    Found 3-bit comparator greater for signal <floor_destiny_Input[2]_GND_4_o_LessThan_1_o> created at line 34
+    Found 3-bit comparator greater for signal <GND_4_o_floor_destiny_Input[2]_LessThan_2_o> created at line 34
+    Found 3-bit comparator greater for signal <GND_4_o_floor_destiny_Input[2]_LessThan_4_o> created at line 43
+    Found 3-bit comparator greater for signal <floor_destiny_Input[2]_GND_4_o_LessThan_5_o> created at line 43
+    Summary:
+	inferred   4 Comparator(s).
+	inferred   1 Multiplexer(s).
+Unit <floor_input_comparator> synthesized.
+
+Synthesizing Unit <switch_input_comparator>.
+    Related source file is "D:\Proyectos\Proyecto2Taller\P2-TD\switch_input_comparator.v".
+    Found 1-bit comparator equal for signal <down_up_Flag_down_up_Input_equal_1_o> created at line 32
+    Found 3-bit comparator greater for signal <GND_5_o_floorCall_Input[2]_LessThan_2_o> created at line 33
+    Found 3-bit comparator greater for signal <floorCall_Input[2]_GND_5_o_LessThan_3_o> created at line 33
+    Found 3-bit comparator greater for signal <floorCall_Input[2]_GND_5_o_LessThan_4_o> created at line 33
+    Found 3-bit comparator greater for signal <GND_5_o_floorCall_Input[2]_LessThan_5_o> created at line 33
+    Summary:
+	inferred   5 Comparator(s).
+	inferred   1 Multiplexer(s).
+Unit <switch_input_comparator> synthesized.
+
+Synthesizing Unit <memory>.
+    Related source file is "D:\Proyectos\Proyecto2Taller\P2-TD\memory.v".
+    Found 2-bit register for signal <Pos0>.
+    Found 30-bit register for signal <n0119[29:0]>.
+    Summary:
+	inferred  32 D-type flip-flop(s).
+	inferred  72 Multiplexer(s).
+Unit <memory> synthesized.
+
+Synthesizing Unit <floor_comparator>.
+    Related source file is "D:\Proyectos\Proyecto2Taller\P2-TD\floor_comparator.v".
+WARNING:Xst:737 - Found 1-bit latch for signal <down_upFlag>. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+WARNING:Xst:737 - Found 1-bit latch for signal <stop_goFlag>. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+    Found 2-bit comparator greater for signal <pos0Mem[1]_actualFloor[1]_LessThan_1_o> created at line 31
+    Found 2-bit comparator equal for signal <pos0Mem[1]_actualFloor[1]_equal_2_o> created at line 35
+    Found 2-bit comparator greater for signal <actualFloor[1]_pos0Mem[1]_LessThan_3_o> created at line 39
+    Summary:
+	inferred   2 Latch(s).
+	inferred   3 Comparator(s).
+	inferred   2 Multiplexer(s).
+Unit <floor_comparator> synthesized.
+
+Synthesizing Unit <stateMachine2>.
+    Related source file is "D:\Proyectos\Proyecto2Taller\P2-TD\stateMachine_2.v".
+        F1 = 2'b00
+        F2 = 2'b01
+        F3 = 2'b10
+        F4 = 2'b11
+    Found 2-bit register for signal <actual_state>.
+    Found 30-bit register for signal <delay>.
+    Found finite state machine <FSM_0> for signal <actual_state>.
+    -----------------------------------------------------------------------
+    | States             | 4                                              |
+    | Transitions        | 12                                             |
+    | Inputs             | 2                                              |
+    | Outputs            | 2                                              |
+    | Clock              | test (rising_edge)                             |
+    | Reset              | RST (positive)                                 |
+    | Reset type         | asynchronous                                   |
+    | Reset State        | 00                                             |
+    | Encoding           | auto                                           |
+    | Implementation     | LUT                                            |
+    -----------------------------------------------------------------------
+    Found 30-bit adder for signal <delay[29]_GND_11_o_add_0_OUT> created at line 42.
+    Summary:
+	inferred   1 Adder/Subtractor(s).
+	inferred  30 D-type flip-flop(s).
+	inferred   1 Finite State Machine(s).
+Unit <stateMachine2> synthesized.
+
+Synthesizing Unit <displayController>.
+    Related source file is "D:\Proyectos\Proyecto2Taller\P2-TD\displayController.v".
+    Found 18-bit register for signal <count>.
+    Found 18-bit adder for signal <count[17]_GND_12_o_add_7_OUT> created at line 80.
+    Found 4x4-bit Read Only RAM for signal <an_temp>
+    Found 7-bit 4-to-1 multiplexer for signal <sseg> created at line 87.
+WARNING:Xst:737 - Found 1-bit latch for signal <firstNumber<2>>. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+WARNING:Xst:737 - Found 1-bit latch for signal <firstNumber<1>>. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+WARNING:Xst:737 - Found 1-bit latch for signal <firstNumber<0>>. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+    Summary:
+	inferred   1 RAM(s).
+	inferred   1 Adder/Subtractor(s).
+	inferred  18 D-type flip-flop(s).
+	inferred   3 Latch(s).
+	inferred   4 Multiplexer(s).
+Unit <displayController> synthesized.
+
+=========================================================================
+HDL Synthesis Report
+
+Macro Statistics
+# RAMs                                                 : 1
+ 4x4-bit single-port Read Only RAM                     : 1
+# Adders/Subtractors                                   : 2
+ 18-bit adder                                          : 1
+ 30-bit adder                                          : 1
+# Registers                                            : 4
+ 18-bit register                                       : 1
+ 2-bit register                                        : 1
+ 30-bit register                                       : 2
+# Latches                                              : 5
+ 1-bit latch                                           : 5
+# Comparators                                          : 12
+ 1-bit comparator equal                                : 1
+ 2-bit comparator equal                                : 1
+ 2-bit comparator greater                              : 2
+ 3-bit comparator greater                              : 8
+# Multiplexers                                         : 86
+ 1-bit 2-to-1 multiplexer                              : 72
+ 2-bit 2-to-1 multiplexer                              : 2
+ 3-bit 2-to-1 multiplexer                              : 6
+ 30-bit 2-to-1 multiplexer                             : 4
+ 7-bit 2-to-1 multiplexer                              : 1
+ 7-bit 4-to-1 multiplexer                              : 1
+# FSMs                                                 : 1
+
+=========================================================================
+
+=========================================================================
+*                       Advanced HDL Synthesis                          *
+=========================================================================
+
+
+Synthesizing (advanced) Unit <displayController>.
+The following registers are absorbed into counter <count>: 1 register on signal <count>.
+INFO:Xst:3218 - HDL ADVISOR - The RAM <Mram_an_temp> will be implemented on LUTs either because you have described an asynchronous read or because of currently unsupported block RAM features. If you have described an asynchronous read, making it synchronous would allow you to take advantage of available block RAM resources, for optimized device usage and improved timings. Please refer to your documentation for coding guidelines.
+    -----------------------------------------------------------------------
+    | ram_type           | Distributed                         |          |
+    -----------------------------------------------------------------------
+    | Port A                                                              |
+    |     aspect ratio   | 4-word x 4-bit                      |          |
+    |     weA            | connected to signal <GND>           | high     |
+    |     addrA          | connected to signal <count>         |          |
+    |     diA            | connected to signal <GND>           |          |
+    |     doA            | connected to signal <an_temp>       |          |
+    -----------------------------------------------------------------------
+Unit <displayController> synthesized (advanced).
+
+Synthesizing (advanced) Unit <stateMachine2>.
+The following registers are absorbed into counter <delay>: 1 register on signal <delay>.
+Unit <stateMachine2> synthesized (advanced).
+
+=========================================================================
+Advanced HDL Synthesis Report
+
+Macro Statistics
+# RAMs                                                 : 1
+ 4x4-bit single-port distributed Read Only RAM         : 1
+# Counters                                             : 2
+ 18-bit up counter                                     : 1
+ 30-bit up counter                                     : 1
+# Registers                                            : 32
+ Flip-Flops                                            : 32
+# Comparators                                          : 12
+ 1-bit comparator equal                                : 1
+ 2-bit comparator equal                                : 1
+ 2-bit comparator greater                              : 2
+ 3-bit comparator greater                              : 8
+# Multiplexers                                         : 84
+ 1-bit 2-to-1 multiplexer                              : 72
+ 3-bit 2-to-1 multiplexer                              : 6
+ 30-bit 2-to-1 multiplexer                             : 4
+ 7-bit 2-to-1 multiplexer                              : 1
+ 7-bit 4-to-1 multiplexer                              : 1
+# FSMs                                                 : 1
+
+=========================================================================
+
+=========================================================================
+*                         Low Level Synthesis                           *
+=========================================================================
+Analyzing FSM <MFsm> for best encoding.
+Optimizing FSM <FSM_0> on signal <actual_state[1:2]> with user encoding.
+-------------------
+ State | Encoding
+-------------------
+ 00    | 00
+ 01    | 01
+ 10    | 10
+ 11    | 11
+-------------------
+WARNING:Xst:3002 - This design contains one or more registers/latches that are directly
+   incompatible with the Spartan6 architecture. The two primary causes of this is
+   either a register or latch described with both an asynchronous set and
+   asynchronous reset, or a register or latch described with an asynchronous
+   set or reset which however has an initialization value of the opposite 
+   polarity (i.e. asynchronous reset with an initialization value of 1).
+    While this circuit can be built, it creates a sub-optimal implementation
+   in terms of area, power and performance. For a more optimal implementation
+   Xilinx highly recommends one of the following:
+
+          1) Remove either the set or reset from all registers and latches
+             if not needed for required functionality
+          2) Modify the code in order to produce a synchronous set
+             and/or reset (both is preferred)
+          3) Ensure all registers have the same initialization value as the
+             described asynchronous set or reset polarity
+          4) Use the -async_to_sync option to transform the asynchronous
+             set/reset to synchronous operation
+             (timing simulation highly recommended when using this option)
+
+  Please refer to http://www.xilinx.com search string "Spartan6 asynchronous set/reset" for more details.
+
+  List of register instances with asynchronous set and reset:
+    stop_goFlag in unit <floor_comparator>
+    down_upFlag in unit <floor_comparator>
+    firstNumber_1 in unit <displayController>
+    firstNumber_0 in unit <displayController>
+    firstNumber_2 in unit <displayController>
+
+
+Optimizing unit <top> ...
+
+Optimizing unit <memory> ...
+
+Optimizing unit <displayController> ...
+
+Optimizing unit <floor_comparator> ...
+INFO:Xst:2261 - The FF/Latch <fsm/delay_10> in Unit <top> is equivalent to the following FF/Latch, which will be removed : <deco/count_10> 
+INFO:Xst:2261 - The FF/Latch <fsm/delay_11> in Unit <top> is equivalent to the following FF/Latch, which will be removed : <deco/count_11> 
+INFO:Xst:2261 - The FF/Latch <fsm/delay_12> in Unit <top> is equivalent to the following FF/Latch, which will be removed : <deco/count_12> 
+INFO:Xst:2261 - The FF/Latch <fsm/delay_13> in Unit <top> is equivalent to the following FF/Latch, which will be removed : <deco/count_13> 
+INFO:Xst:2261 - The FF/Latch <fsm/delay_14> in Unit <top> is equivalent to the following FF/Latch, which will be removed : <deco/count_14> 
+INFO:Xst:2261 - The FF/Latch <fsm/delay_15> in Unit <top> is equivalent to the following FF/Latch, which will be removed : <deco/count_15> 
+INFO:Xst:2261 - The FF/Latch <fsm/delay_16> in Unit <top> is equivalent to the following FF/Latch, which will be removed : <deco/count_16> 
+INFO:Xst:2261 - The FF/Latch <fsm/delay_17> in Unit <top> is equivalent to the following FF/Latch, which will be removed : <deco/count_17> 
+INFO:Xst:2261 - The FF/Latch <fsm/delay_0> in Unit <top> is equivalent to the following FF/Latch, which will be removed : <deco/count_0> 
+INFO:Xst:2261 - The FF/Latch <fsm/delay_1> in Unit <top> is equivalent to the following FF/Latch, which will be removed : <deco/count_1> 
+INFO:Xst:2261 - The FF/Latch <fsm/delay_2> in Unit <top> is equivalent to the following FF/Latch, which will be removed : <deco/count_2> 
+INFO:Xst:2261 - The FF/Latch <fsm/delay_3> in Unit <top> is equivalent to the following FF/Latch, which will be removed : <deco/count_3> 
+INFO:Xst:2261 - The FF/Latch <fsm/delay_4> in Unit <top> is equivalent to the following FF/Latch, which will be removed : <deco/count_4> 
+INFO:Xst:2261 - The FF/Latch <fsm/delay_5> in Unit <top> is equivalent to the following FF/Latch, which will be removed : <deco/count_5> 
+INFO:Xst:2261 - The FF/Latch <fsm/delay_6> in Unit <top> is equivalent to the following FF/Latch, which will be removed : <deco/count_6> 
+INFO:Xst:2261 - The FF/Latch <fsm/delay_7> in Unit <top> is equivalent to the following FF/Latch, which will be removed : <deco/count_7> 
+INFO:Xst:2261 - The FF/Latch <fsm/delay_8> in Unit <top> is equivalent to the following FF/Latch, which will be removed : <deco/count_8> 
+INFO:Xst:2261 - The FF/Latch <fsm/delay_9> in Unit <top> is equivalent to the following FF/Latch, which will be removed : <deco/count_9> 
+
+Mapping all equations...
+Building and optimizing final netlist ...
+Found area constraint ratio of 100 (+ 5) on block top, actual ratio is 2.
+FlipFlop mem/my_memory_9_29 has been replicated 1 time(s)
+
+Final Macro Processing ...
+
+=========================================================================
+Final Register Report
+
+Macro Statistics
+# Registers                                            : 65
+ Flip-Flops                                            : 65
+
+=========================================================================
+
+=========================================================================
+*                           Partition Report                            *
+=========================================================================
+
+Partition Implementation Status
+-------------------------------
+
+  No Partitions were found in this design.
+
+-------------------------------
+
+=========================================================================
+*                            Design Summary                             *
+=========================================================================
+
+Top Level Output File Name         : top.ngc
+
+Primitive and Black Box Usage:
+------------------------------
+# BELS                             : 259
+#      GND                         : 1
+#      INV                         : 2
+#      LUT1                        : 29
+#      LUT2                        : 13
+#      LUT3                        : 7
+#      LUT4                        : 32
+#      LUT5                        : 36
+#      LUT6                        : 74
+#      MUXCY                       : 29
+#      MUXF7                       : 5
+#      VCC                         : 1
+#      XORCY                       : 30
+# FlipFlops/Latches                : 70
+#      FDC                         : 32
+#      FDE                         : 33
+#      LD                          : 5
+# Clock Buffers                    : 1
+#      BUFGP                       : 1
+# IO Buffers                       : 25
+#      IBUF                        : 11
+#      OBUF                        : 14
+
+Device utilization summary:
+---------------------------
+
+Selected Device : 6slx16csg324-3 
+
+
+Slice Logic Utilization: 
+ Number of Slice Registers:              70  out of  18224     0%  
+ Number of Slice LUTs:                  193  out of   9112     2%  
+    Number used as Logic:               193  out of   9112     2%  
+
+Slice Logic Distribution: 
+ Number of LUT Flip Flop pairs used:    196
+   Number with an unused Flip Flop:     126  out of    196    64%  
+   Number with an unused LUT:             3  out of    196     1%  
+   Number of fully used LUT-FF pairs:    67  out of    196    34%  
+   Number of unique control sets:         4
+
+IO Utilization: 
+ Number of IOs:                          26
+ Number of bonded IOBs:                  26  out of    232    11%  
+
+Specific Feature Utilization:
+ Number of BUFG/BUFGCTRLs:                1  out of     16     6%  
+
+---------------------------
+Partition Resource Summary:
+---------------------------
+
+  No Partitions were found in this design.
+
+---------------------------
+
+
+=========================================================================
+Timing Report
+
+NOTE: THESE TIMING NUMBERS ARE ONLY A SYNTHESIS ESTIMATE.
+      FOR ACCURATE TIMING INFORMATION PLEASE REFER TO THE TRACE REPORT
+      GENERATED AFTER PLACE-and-ROUTE.
+
+Clock Information:
+------------------
+-----------------------------------+-----------------------------------+-------+
+Clock Signal                       | Clock buffer(FF name)             | Load  |
+-----------------------------------+-----------------------------------+-------+
+clk                                | BUFGP                             | 63    |
+fsm/test(fsm/out6:O)               | NONE(*)(fsm/actual_state_FSM_FFd2)| 2     |
+dp_OBUF                            | NONE(deco/firstNumber_1)          | 5     |
+-----------------------------------+-----------------------------------+-------+
+(*) This 1 clock signal(s) are generated by combinatorial logic,
+and XST is not able to identify which are the primary clock signals.
+Please use the CLOCK_SIGNAL constraint to specify the clock signal(s) generated by combinatorial logic.
+INFO:Xst:2169 - HDL ADVISOR - Some clock signals were not automatically buffered by XST with BUFG/BUFR resources. Please use the buffer_type constraint in order to insert these buffers to the clock signals to help prevent skew problems.
+
+Asynchronous Control Signals Information:
+----------------------------------------
+No asynchronous control signals found in this design
+
+Timing Summary:
+---------------
+Speed Grade: -3
+
+   Minimum period: 4.551ns (Maximum Frequency: 219.715MHz)
+   Minimum input arrival time before clock: 8.398ns
+   Maximum output required time after clock: 6.010ns
+   Maximum combinational path delay: No path found
+
+Timing Details:
+---------------
+All values displayed in nanoseconds (ns)
+
+=========================================================================
+Timing constraint: Default period analysis for Clock 'clk'
+  Clock period: 4.551ns (frequency: 219.715MHz)
+  Total number of paths / destination ports: 1115 / 63
+-------------------------------------------------------------------------
+Delay:               4.551ns (Levels of Logic = 4)
+  Source:            mem/my_memory_9_20 (FF)
+  Destination:       mem/my_memory_9_7 (FF)
+  Source Clock:      clk rising
+  Destination Clock: clk rising
+
+  Data Path: mem/my_memory_9_20 to mem/my_memory_9_7
+                                Gate     Net
+    Cell:in->out      fanout   Delay   Delay  Logical Name (Net Name)
+    ----------------------------------------  ------------
+     FDE:C->Q             10   0.447   1.104  mem/my_memory_9_20 (mem/my_memory_9_20)
+     LUT5:I1->O           11   0.203   0.883  mem/Mmux_my_memory[0][2]_my_memory[1][2]_mux_33_OUT561111 (mem/Mmux_my_memory[0][2]_my_memory[1][2]_mux_33_OUT56111)
+     LUT4:I3->O            2   0.205   0.617  mem/GND_6_o_GND_6_o_AND_25_o1 (mem/GND_6_o_GND_6_o_AND_25_o)
+     LUT6:I5->O            1   0.205   0.580  mem/Mmux_my_memory[0][2]_my_memory[1][2]_mux_33_OUT554_SW0 (N54)
+     LUT6:I5->O            1   0.205   0.000  mem/Mmux_my_memory[0][2]_my_memory[1][2]_mux_33_OUT554 (mem/my_memory[0][2]_my_memory[1][2]_mux_33_OUT<7>)
+     FDE:D                     0.102          mem/my_memory_9_7
+    ----------------------------------------
+    Total                      4.551ns (1.367ns logic, 3.184ns route)
+                                       (30.0% logic, 70.0% route)
+
+=========================================================================
+Timing constraint: Default period analysis for Clock 'fsm/test'
+  Clock period: 2.113ns (frequency: 473.339MHz)
+  Total number of paths / destination ports: 4 / 2
+-------------------------------------------------------------------------
+Delay:               2.113ns (Levels of Logic = 1)
+  Source:            fsm/actual_state_FSM_FFd2 (FF)
+  Destination:       fsm/actual_state_FSM_FFd2 (FF)
+  Source Clock:      fsm/test rising
+  Destination Clock: fsm/test rising
+
+  Data Path: fsm/actual_state_FSM_FFd2 to fsm/actual_state_FSM_FFd2
+                                Gate     Net
+    Cell:in->out      fanout   Delay   Delay  Logical Name (Net Name)
+    ----------------------------------------  ------------
+     FDC:C->Q             21   0.447   1.361  fsm/actual_state_FSM_FFd2 (fsm/actual_state_FSM_FFd2)
+     LUT4:I0->O            1   0.203   0.000  fsm/actual_state_FSM_FFd2-In1 (fsm/actual_state_FSM_FFd2-In)
+     FDC:D                     0.102          fsm/actual_state_FSM_FFd2
+    ----------------------------------------
+    Total                      2.113ns (0.752ns logic, 1.361ns route)
+                                       (35.6% logic, 64.4% route)
+
+=========================================================================
+Timing constraint: Default OFFSET IN BEFORE for Clock 'clk'
+  Total number of paths / destination ports: 4285 / 59
+-------------------------------------------------------------------------
+Offset:              8.398ns (Levels of Logic = 7)
+  Source:            button_FirstFloor (PAD)
+  Destination:       mem/my_memory_9_7 (FF)
+  Destination Clock: clk rising
+
+  Data Path: button_FirstFloor to mem/my_memory_9_7
+                                Gate     Net
+    Cell:in->out      fanout   Delay   Delay  Logical Name (Net Name)
+    ----------------------------------------  ------------
+     IBUF:I->O            17   1.222   1.392  button_FirstFloor_IBUF (button_FirstFloor_IBUF)
+     LUT6:I0->O            4   0.203   1.028  comp3/Mmux_beginEndMemory_Flag14_SW3 (N18)
+     LUT5:I0->O            3   0.203   0.879  comp3/Mmux_beginEndMemory_Flag14_SW7 (N52)
+     LUT4:I1->O            1   0.205   0.827  mem/Mmux_my_memory[0][2]_my_memory[1][2]_mux_33_OUT3511_SW3 (N68)
+     LUT6:I2->O            8   0.203   1.147  mem/Mmux_my_memory[0][2]_my_memory[1][2]_mux_33_OUT3511 (mem/Mmux_my_memory[0][2]_my_memory[1][2]_mux_33_OUT351)
+     LUT6:I1->O            1   0.203   0.580  mem/Mmux_my_memory[0][2]_my_memory[1][2]_mux_33_OUT554_SW0 (N54)
+     LUT6:I5->O            1   0.205   0.000  mem/Mmux_my_memory[0][2]_my_memory[1][2]_mux_33_OUT554 (mem/my_memory[0][2]_my_memory[1][2]_mux_33_OUT<7>)
+     FDE:D                     0.102          mem/my_memory_9_7
+    ----------------------------------------
+    Total                      8.398ns (2.546ns logic, 5.852ns route)
+                                       (30.3% logic, 69.7% route)
+
+=========================================================================
+Timing constraint: Default OFFSET IN BEFORE for Clock 'fsm/test'
+  Total number of paths / destination ports: 2 / 2
+-------------------------------------------------------------------------
+Offset:              2.943ns (Levels of Logic = 1)
+  Source:            reset (PAD)
+  Destination:       fsm/actual_state_FSM_FFd2 (FF)
+  Destination Clock: fsm/test rising
+
+  Data Path: reset to fsm/actual_state_FSM_FFd2
+                                Gate     Net
+    Cell:in->out      fanout   Delay   Delay  Logical Name (Net Name)
+    ----------------------------------------  ------------
+     IBUF:I->O            32   1.222   1.291  reset_IBUF (reset_IBUF)
+     FDC:CLR                   0.430          fsm/actual_state_FSM_FFd2
+    ----------------------------------------
+    Total                      2.943ns (1.652ns logic, 1.291ns route)
+                                       (56.1% logic, 43.9% route)
+
+=========================================================================
+Timing constraint: Default OFFSET OUT AFTER for Clock 'clk'
+  Total number of paths / destination ports: 22 / 11
+-------------------------------------------------------------------------
+Offset:              5.097ns (Levels of Logic = 2)
+  Source:            fsm/delay_16 (FF)
+  Destination:       a (PAD)
+  Source Clock:      clk rising
+
+  Data Path: fsm/delay_16 to a
+                                Gate     Net
+    Cell:in->out      fanout   Delay   Delay  Logical Name (Net Name)
+    ----------------------------------------  ------------
+     FDC:C->Q             13   0.447   1.297  fsm/delay_16 (fsm/delay_16)
+     LUT6:I0->O            1   0.203   0.579  deco/sseg_temp<6> (g_OBUF)
+     OBUF:I->O                 2.571          g_OBUF (g)
+    ----------------------------------------
+    Total                      5.097ns (3.221ns logic, 1.876ns route)
+                                       (63.2% logic, 36.8% route)
+
+=========================================================================
+Timing constraint: Default OFFSET OUT AFTER for Clock 'fsm/test'
+  Total number of paths / destination ports: 14 / 8
+-------------------------------------------------------------------------
+Offset:              6.010ns (Levels of Logic = 3)
+  Source:            fsm/actual_state_FSM_FFd1 (FF)
+  Destination:       g (PAD)
+  Source Clock:      fsm/test rising
+
+  Data Path: fsm/actual_state_FSM_FFd1 to g
+                                Gate     Net
+    Cell:in->out      fanout   Delay   Delay  Logical Name (Net Name)
+    ----------------------------------------  ------------
+     FDC:C->Q             20   0.447   1.197  fsm/actual_state_FSM_FFd1 (fsm/actual_state_FSM_FFd1)
+     LUT2:I0->O            1   0.203   0.808  deco/sseg_temp<6>_SW0 (N2)
+     LUT6:I3->O            1   0.205   0.579  deco/sseg_temp<6> (g_OBUF)
+     OBUF:I->O                 2.571          g_OBUF (g)
+    ----------------------------------------
+    Total                      6.010ns (3.426ns logic, 2.584ns route)
+                                       (57.0% logic, 43.0% route)
+
+=========================================================================
+
+Cross Clock Domains Report:
+--------------------------
+
+Clock to Setup on destination clock clk
+---------------+---------+---------+---------+---------+
+               | Src:Rise| Src:Fall| Src:Rise| Src:Fall|
+Source Clock   |Dest:Rise|Dest:Rise|Dest:Fall|Dest:Fall|
+---------------+---------+---------+---------+---------+
+clk            |    4.551|         |         |         |
+fsm/test       |    7.651|         |         |         |
+---------------+---------+---------+---------+---------+
+
+Clock to Setup on destination clock fsm/test
+---------------+---------+---------+---------+---------+
+               | Src:Rise| Src:Fall| Src:Rise| Src:Fall|
+Source Clock   |Dest:Rise|Dest:Rise|Dest:Fall|Dest:Fall|
+---------------+---------+---------+---------+---------+
+fsm/test       |    2.113|         |         |         |
+---------------+---------+---------+---------+---------+
+
+=========================================================================
+
+
+Total REAL time to Xst completion: 15.00 secs
+Total CPU time to Xst completion: 14.38 secs
+ 
+--> 
+
+Total memory usage is 294972 kilobytes
+
+Number of errors   :    0 (   0 filtered)
+Number of warnings :   23 (   0 filtered)
+Number of infos    :   20 (   0 filtered)
+

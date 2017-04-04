@@ -1,5 +1,5 @@
 ISim log file
-Running: D:\Proyectos\Proyecto2Taller\P2-TD\floor_input_comparator_tb_isim_beh.exe -intstyle ise -gui -tclbatch isim.cmd -wdb D:/Proyectos/Proyecto2Taller/P2-TD/floor_input_comparator_tb_isim_beh.wdb 
+Running: D:\Proyectos\Proyecto2Taller\P2-TD\top_tb_isim_beh.exe -intstyle ise -gui -tclbatch isim.cmd -wdb D:/Proyectos/Proyecto2Taller/P2-TD/top_tb_isim_beh.wdb 
 ISim P.20131013 (signature 0x7708f090)
 WARNING: A WEBPACK license was found.
 WARNING: Please use Xilinx License Configuration Manager to check out a full ISim license.
@@ -11,7 +11,440 @@ Time resolution is 1 ps
 # run 1000 ns
 Simulator is doing circuit initialization process.
 Finished circuit initialization process.
-Stopped at time : 160 ns : File "D:/Proyectos/Proyecto2Taller/P2-TD/floor_input_comparator_tb.v" Line 86
+pos0x0
+PRUEBA	 xx	xx2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!xxx2x
+PRUEBA	 xx	xx2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!xxx2x
+PRUEBA	 xx	xx2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!xxx2x
+PRUEBA	 xx	xx2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!xxx2x
+PRUEBA	 xx	xx2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!xxx2x
+PRUEBA	 xx	xx2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!xxx2x
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+PRUEBA	 10	1x2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!21x2x
+3MEM00
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+pos000
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+PRUEBA	 10	2x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 001	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM01
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+pos010
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM00
+pos000
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+pos030
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM00
+pos000
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+pos030
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM00
+pos000
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+pos030
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM00
+pos000
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+pos030
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM00
+pos000
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+pos030
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM00
+pos000
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+pos030
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM00
+pos000
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+pos030
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM00
+pos000
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+pos030
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM00
+pos000
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+pos030
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM00
+pos000
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+pos030
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM00
+pos000
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+pos030
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM00
+pos000
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+pos030
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM00
+pos000
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+pos030
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM00
+pos000
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+pos030
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM00
+pos000
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+pos030
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM00
+pos000
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+pos030
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM00
+pos000
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+pos030
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM00
+pos000
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+pos030
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM00
+pos000
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+pos030
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM00
+pos000
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+pos030
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM00
+pos000
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+pos030
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 ISim P.20131013 (signature 0x7708f090)
 WARNING: A WEBPACK license was found.
 WARNING: Please use Xilinx License Configuration Manager to check out a full ISim license.
@@ -20,7 +453,440 @@ This is a Lite version of ISim.
 # run 1000 ns
 Simulator is doing circuit initialization process.
 Finished circuit initialization process.
-Stopped at time : 160 ns : File "D:/Proyectos/Proyecto2Taller/P2-TD/floor_input_comparator_tb.v" Line 86
+pos0x0
+PRUEBA	 xx	xx2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!xxx2x
+PRUEBA	 xx	xx2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!xxx2x
+PRUEBA	 xx	xx2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!xxx2x
+PRUEBA	 xx	xx2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!xxx2x
+PRUEBA	 xx	xx2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!xxx2x
+PRUEBA	 xx	xx2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!xxx2x
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA1x
+PRUEBA	 10	1x2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!21x2x
+3MEM00
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA2x
+pos000
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA20
+PRUEBA	 10	2x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 001	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM01
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA30
+pos010
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA31
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM00
+pos000
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA30
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+pos030
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA31
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM00
+pos000
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA30
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+pos030
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA31
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM00
+pos000
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA30
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+pos030
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA31
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM00
+pos000
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA30
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+pos030
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA31
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM00
+pos000
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA30
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+pos030
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA31
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM00
+pos000
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA30
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+pos030
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA31
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM00
+pos000
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA30
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+pos030
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA31
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM00
+pos000
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA30
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+pos030
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA31
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM00
+pos000
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA30
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+pos030
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA31
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM00
+pos000
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA30
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+pos030
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA31
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM00
+pos000
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA30
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+pos030
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA31
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM00
+pos000
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA30
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+pos030
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA31
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM00
+pos000
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA30
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+pos030
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA31
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM00
+pos000
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA30
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+pos030
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA31
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM00
+pos000
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA30
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+pos030
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA31
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM00
+pos000
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA30
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+pos030
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA31
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM00
+pos000
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA30
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+pos030
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA31
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM00
+pos000
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA30
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+pos030
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA31
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM00
+pos000
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA30
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+pos030
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA31
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM00
+pos000
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA30
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+pos030
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA31
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM00
+pos000
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA30
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+pos030
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA31
 ISim P.20131013 (signature 0x7708f090)
 WARNING: A WEBPACK license was found.
 WARNING: Please use Xilinx License Configuration Manager to check out a full ISim license.
@@ -29,4 +895,4813 @@ This is a Lite version of ISim.
 # run 1000 ns
 Simulator is doing circuit initialization process.
 Finished circuit initialization process.
-Stopped at time : 160 ns : File "D:/Proyectos/Proyecto2Taller/P2-TD/floor_input_comparator_tb.v" Line 91
+pos0x0
+PRUEBA	 xx	xx2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!xxx2x
+PRUEBA	 xx	xx2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!xxx2x
+PRUEBA	 xx	xx2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!xxx2x
+PRUEBA	 xx	xx2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!xxx2x
+PRUEBA	 xx	xx2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!xxx2x
+PRUEBA	 xx	xx2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!xxx2x
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA1x
+PRUEBA	 10	1x2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!21x2x
+3MEM00
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA2x
+pos000
+PRUEBA	 10	2x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 001	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM01
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA30
+pos010
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM00
+pos000
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+pos030
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM00
+pos000
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+pos030
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM00
+pos000
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+pos030
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM00
+pos000
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+pos030
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM00
+pos000
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+pos030
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM00
+pos000
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+pos030
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM00
+pos000
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+pos030
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM00
+pos000
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+pos030
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM00
+pos000
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+pos030
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM00
+pos000
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+pos030
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM00
+pos000
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+pos030
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM00
+pos000
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+pos030
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM00
+pos000
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+pos030
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM00
+pos000
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+pos030
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM00
+pos000
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+pos030
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM00
+pos000
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+pos030
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM00
+pos000
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+pos030
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM00
+pos000
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+pos030
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM00
+pos000
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+pos030
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM00
+pos000
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+pos030
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM00
+pos000
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+pos030
+ISim P.20131013 (signature 0x7708f090)
+WARNING: A WEBPACK license was found.
+WARNING: Please use Xilinx License Configuration Manager to check out a full ISim license.
+WARNING: ISim will run in Lite mode. Please refer to the ISim documentation for more information on the differences between the Lite and the Full version.
+This is a Lite version of ISim.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+pos0x0
+PRUEBA	 xx	xx2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!xxx2x
+PRUEBA	 xx	xx2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!xxx2x
+PRUEBA	 xx	xx2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!xxx2x
+PRUEBA	 xx	xx2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!xxx2x
+PRUEBA	 xx	xx2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!xxx2x
+PRUEBA	 xx	xx2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!xxx2x
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA1x
+PRUEBA	 10	1x2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!21x2x
+3MEM00
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA2x
+pos000
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA20
+PRUEBA	 10	2x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 001	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM01
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA30
+pos010
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA31
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM00
+pos000
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA30
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+pos030
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA31
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM00
+pos000
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA30
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+pos030
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA31
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM00
+pos000
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA30
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+pos030
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA31
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM00
+pos000
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA30
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+pos030
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA31
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM00
+pos000
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA30
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+pos030
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA31
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM00
+pos000
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA30
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+pos030
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA31
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM00
+pos000
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA30
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+pos030
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA31
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM00
+pos000
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA30
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+pos030
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA31
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM00
+pos000
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA30
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+pos030
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA31
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM00
+pos000
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA30
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+pos030
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA31
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM00
+pos000
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA30
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+pos030
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA31
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM00
+pos000
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA30
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+pos030
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA31
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM00
+pos000
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA30
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+pos030
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA31
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM00
+pos000
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA30
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+pos030
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA31
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM00
+pos000
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA30
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+pos030
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA31
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM00
+pos000
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA30
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+pos030
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA31
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM00
+pos000
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA30
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+pos030
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA31
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM00
+pos000
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA30
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+pos030
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA31
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM00
+pos000
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA30
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+pos030
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA31
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM00
+pos000
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA30
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+pos030
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA31
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM00
+pos000
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA30
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+pos030
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA31
+ISim P.20131013 (signature 0x7708f090)
+WARNING: A WEBPACK license was found.
+WARNING: Please use Xilinx License Configuration Manager to check out a full ISim license.
+WARNING: ISim will run in Lite mode. Please refer to the ISim documentation for more information on the differences between the Lite and the Full version.
+This is a Lite version of ISim.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+pos0x0
+PRUEBA	 xx	xx2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!xxx2x
+PRUEBA	 xx	xx2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!xxx2x
+PRUEBA	 xx	xx2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!xxx2x
+PRUEBA	 xx	xx2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!xxx2x
+PRUEBA	 xx	xx2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!xxx2x
+PRUEBA	 xx	xx2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!xxx2x
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA1x
+PRUEBA	 10	1x2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!21x2x
+3MEM00
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA2x
+pos000
+PRUEBA	 10	2x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 001	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM01
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA30
+pos010
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM00
+pos000
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+pos030
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM00
+pos000
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+pos030
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM00
+pos000
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+pos030
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM00
+pos000
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+pos030
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM00
+pos000
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+pos030
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM00
+pos000
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+pos030
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM00
+pos000
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+pos030
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM00
+pos000
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+pos030
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM00
+pos000
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+pos030
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM00
+pos000
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+pos030
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM00
+pos000
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+pos030
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM00
+pos000
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+pos030
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM00
+pos000
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+pos030
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM00
+pos000
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+pos030
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM00
+pos000
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+pos030
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM00
+pos000
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+pos030
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM00
+pos000
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+pos030
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM00
+pos000
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+pos030
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM00
+pos000
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+pos030
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM00
+pos000
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+pos030
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM00
+pos000
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+pos030
+ISim P.20131013 (signature 0x7708f090)
+WARNING: A WEBPACK license was found.
+WARNING: Please use Xilinx License Configuration Manager to check out a full ISim license.
+WARNING: ISim will run in Lite mode. Please refer to the ISim documentation for more information on the differences between the Lite and the Full version.
+This is a Lite version of ISim.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+pos0x0
+PRUEBA	 xx	xx2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!xxx2x
+PRUEBA	 xx	xx2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!xxx2x
+PRUEBA	 xx	xx2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!xxx2x
+PRUEBA	 xx	xx2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!xxx2x
+PRUEBA	 xx	xx2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!xxx2x
+PRUEBA	 xx	xx2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!xxx2x
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA1x
+PRUEBA	 10	1x2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!21x2x
+3MEM00
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA2x
+pos000
+PRUEBA	 10	2x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 001	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM01
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA30
+pos010
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM00
+pos000
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+pos030
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM00
+pos000
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+pos030
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM00
+pos000
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+pos030
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM00
+pos000
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+pos030
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM00
+pos000
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+pos030
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM00
+pos000
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+pos030
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM00
+pos000
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+pos030
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM00
+pos000
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+pos030
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM00
+pos000
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+pos030
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM00
+pos000
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+pos030
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM00
+pos000
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+pos030
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM00
+pos000
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+pos030
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM00
+pos000
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+pos030
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM00
+pos000
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+pos030
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM00
+pos000
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+pos030
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM00
+pos000
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+pos030
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM00
+pos000
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+pos030
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM00
+pos000
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+pos030
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM00
+pos000
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+pos030
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM00
+pos000
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+pos030
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM00
+pos000
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+pos030
+ISim P.20131013 (signature 0x7708f090)
+WARNING: A WEBPACK license was found.
+WARNING: Please use Xilinx License Configuration Manager to check out a full ISim license.
+WARNING: ISim will run in Lite mode. Please refer to the ISim documentation for more information on the differences between the Lite and the Full version.
+This is a Lite version of ISim.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+pos0x0
+PRUEBA	 xx	xx2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!xxx2x
+PRUEBA	 xx	xx2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!xxx2x
+PRUEBA	 xx	xx2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!xxx2x
+PRUEBA	 xx	xx2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!xxx2x
+PRUEBA	 xx	xx2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!xxx2x
+PRUEBA	 xx	xx2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!xxx2x
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA1x
+PRUEBA	 10	1x2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!21x2x
+3MEM00
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA2x
+pos000
+PRUEBA	 10	2x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 001	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM01
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA30
+pos010
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM00
+pos000
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+pos030
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM00
+pos000
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+pos030
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM00
+pos000
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+pos030
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM00
+pos000
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+pos030
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM00
+pos000
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+pos030
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM00
+pos000
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+pos030
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM00
+pos000
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+pos030
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM00
+pos000
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+pos030
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM00
+pos000
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+pos030
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM00
+pos000
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+pos030
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM00
+pos000
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+pos030
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM00
+pos000
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+pos030
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM00
+pos000
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+pos030
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM00
+pos000
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+pos030
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM00
+pos000
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+pos030
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM00
+pos000
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+pos030
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM00
+pos000
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+pos030
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM00
+pos000
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+pos030
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM00
+pos000
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+pos030
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM00
+pos000
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+pos030
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM00
+pos000
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+pos030
+ISim P.20131013 (signature 0x7708f090)
+WARNING: A WEBPACK license was found.
+WARNING: Please use Xilinx License Configuration Manager to check out a full ISim license.
+WARNING: ISim will run in Lite mode. Please refer to the ISim documentation for more information on the differences between the Lite and the Full version.
+This is a Lite version of ISim.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+pos0x0
+PRUEBA	 xx	xx2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!xxx2x
+PRUEBA	 xx	xx2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!xxx2x
+PRUEBA	 xx	xx2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!xxx2x
+PRUEBA	 xx	xx2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!xxx2x
+PRUEBA	 xx	xx2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!xxx2x
+PRUEBA	 xx	xx2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!xxx2x
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA1x
+PRUEBA	 10	1x2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!21x2x
+3MEM00
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA2x
+pos000
+PRUEBA	 10	2x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 001	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM01
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA30
+pos010
+pos011
+PRUEBA	 10	3x21
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x21
+3MEM00
+pos001
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM03
+pos031
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM03
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM03
+pos032
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM03
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM03
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM03
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM03
+pos033
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 011	
+entro 011	
+entro 011	
+entro 011	
+entro 011	
+entro 011	
+entro 011	
+entro 100	
+1MEM03
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 011	
+entro 011	
+entro 011	
+entro 011	
+entro 011	
+entro 011	
+entro 100	
+entro 100	
+1MEM03
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 011	
+entro 011	
+entro 011	
+entro 011	
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 011	
+entro 011	
+entro 011	
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 011	
+entro 011	
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 011	
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+PRUEBA	 10	3x21
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x21
+3MEM00
+pos003
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM03
+pos033
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+PRUEBA	 10	3x21
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x21
+3MEM00
+pos003
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM03
+pos033
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+PRUEBA	 10	3x21
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x21
+3MEM00
+pos003
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM03
+pos033
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+PRUEBA	 10	3x21
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x21
+3MEM00
+pos003
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM03
+pos033
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+PRUEBA	 10	3x21
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x21
+3MEM00
+pos003
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM03
+pos033
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+PRUEBA	 10	3x21
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x21
+3MEM00
+pos003
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM03
+pos033
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+PRUEBA	 10	3x21
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x21
+3MEM00
+pos003
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM03
+pos033
+ISim P.20131013 (signature 0x7708f090)
+WARNING: A WEBPACK license was found.
+WARNING: Please use Xilinx License Configuration Manager to check out a full ISim license.
+WARNING: ISim will run in Lite mode. Please refer to the ISim documentation for more information on the differences between the Lite and the Full version.
+This is a Lite version of ISim.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+pos0x0
+PRUEBA	 xx	xx2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!xxx2x
+PRUEBA	 xx	xx2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!xxx2x
+PRUEBA	 xx	xx2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!xxx2x
+PRUEBA	 xx	xx2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!xxx2x
+PRUEBA	 xx	xx2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!xxx2x
+PRUEBA	 xx	xx2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!xxx2x
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA1x
+PRUEBA	 10	1x2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!21x2x
+3MEM00
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA2x
+pos000
+PRUEBA	 10	2x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 001	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM01
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA30
+pos010
+pos011
+PRUEBA	 10	3x21
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x21
+3MEM00
+pos001
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM03
+pos031
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM03
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM03
+pos032
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM03
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM03
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM03
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM03
+pos033
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 011	
+entro 011	
+entro 011	
+entro 011	
+entro 011	
+entro 011	
+entro 011	
+entro 100	
+1MEM03
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 011	
+entro 011	
+entro 011	
+entro 011	
+entro 011	
+entro 011	
+entro 100	
+entro 100	
+1MEM03
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 011	
+entro 011	
+entro 011	
+entro 011	
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 011	
+entro 011	
+entro 011	
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 011	
+entro 011	
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 011	
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+PRUEBA	 10	3x21
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x21
+3MEM00
+pos003
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM03
+pos033
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA10
+PRUEBA	 10	1x21
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!21x21
+3MEM00
+pos003
+PRUEBA	 10	1x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!21x20
+3MEM01
+pos013
+PRUEBA	 10	1x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!21x20
+3MEM01
+PRUEBA	 10	1x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!21x20
+3MEM01
+pos012
+PRUEBA	 10	1x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!21x20
+3MEM01
+PRUEBA	 10	1x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!21x20
+3MEM01
+PRUEBA	 10	1x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!21x20
+3MEM01
+PRUEBA	 10	1x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!21x20
+3MEM01
+pos011
+PRUEBA	 10	1x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 001	
+entro 001	
+entro 001	
+entro 001	
+entro 001	
+entro 001	
+entro 001	
+entro 001	
+entro 100	
+1MEM01
+PRUEBA	 10	1x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 001	
+entro 001	
+entro 001	
+entro 001	
+entro 001	
+entro 001	
+entro 001	
+entro 100	
+entro 100	
+1MEM01
+PRUEBA	 10	1x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 001	
+entro 001	
+entro 001	
+entro 001	
+entro 001	
+entro 001	
+entro 100	
+entro 100	
+entro 100	
+1MEM01
+PRUEBA	 10	1x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 001	
+entro 001	
+entro 001	
+entro 001	
+entro 001	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM01
+PRUEBA	 10	1x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 001	
+entro 001	
+entro 001	
+entro 001	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM01
+PRUEBA	 10	1x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 001	
+entro 001	
+entro 001	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM01
+PRUEBA	 10	1x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 001	
+entro 001	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM01
+PRUEBA	 10	1x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 001	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM01
+PRUEBA	 10	1x21
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!21x21
+3MEM00
+pos001
+PRUEBA	 10	1x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!21x20
+3MEM01
+pos011
+PRUEBA	 10	1x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 001	
+entro 001	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM01
+PRUEBA	 10	1x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 001	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM01
+PRUEBA	 10	1x21
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!21x21
+3MEM00
+pos001
+PRUEBA	 10	1x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!21x20
+3MEM01
+pos011
+ISim P.20131013 (signature 0x7708f090)
+WARNING: A WEBPACK license was found.
+WARNING: Please use Xilinx License Configuration Manager to check out a full ISim license.
+WARNING: ISim will run in Lite mode. Please refer to the ISim documentation for more information on the differences between the Lite and the Full version.
+This is a Lite version of ISim.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+pos0x0
+PRUEBA	 xx	xx2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!xxx2x
+PRUEBA	 xx	xx2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!xxx2x
+PRUEBA	 xx	xx2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!xxx2x
+PRUEBA	 xx	xx2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!xxx2x
+PRUEBA	 xx	xx2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!xxx2x
+PRUEBA	 xx	xx2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!xxx2x
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA1x
+PRUEBA	 10	1x2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!21x2x
+3MEM00
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA2x
+pos000
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA20
+PRUEBA	 10	2x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 001	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM01
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA30
+pos010
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA31
+pos011
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA30
+PRUEBA	 10	3x21
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x21
+3MEM00
+pos001
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM03
+pos031
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA31
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM03
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM03
+pos032
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM03
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM03
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM03
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM03
+pos033
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA30
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 011	
+entro 011	
+entro 011	
+entro 011	
+entro 011	
+entro 011	
+entro 011	
+entro 100	
+1MEM03
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 011	
+entro 011	
+entro 011	
+entro 011	
+entro 011	
+entro 011	
+entro 100	
+entro 100	
+1MEM03
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 011	
+entro 011	
+entro 011	
+entro 011	
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 011	
+entro 011	
+entro 011	
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 011	
+entro 011	
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 011	
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+PRUEBA	 10	3x21
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x21
+3MEM00
+pos003
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM03
+pos033
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA10
+PRUEBA	 10	1x21
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!21x21
+3MEM00
+pos003
+PRUEBA	 10	1x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!21x20
+3MEM01
+pos013
+PRUEBA	 10	1x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!21x20
+3MEM01
+PRUEBA	 10	1x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!21x20
+3MEM01
+pos012
+PRUEBA	 10	1x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!21x20
+3MEM01
+PRUEBA	 10	1x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!21x20
+3MEM01
+PRUEBA	 10	1x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!21x20
+3MEM01
+PRUEBA	 10	1x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!21x20
+3MEM01
+pos011
+PRUEBA	 10	1x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 001	
+entro 001	
+entro 001	
+entro 001	
+entro 001	
+entro 001	
+entro 001	
+entro 001	
+entro 100	
+1MEM01
+PRUEBA	 10	1x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 001	
+entro 001	
+entro 001	
+entro 001	
+entro 001	
+entro 001	
+entro 001	
+entro 100	
+entro 100	
+1MEM01
+PRUEBA	 10	1x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 001	
+entro 001	
+entro 001	
+entro 001	
+entro 001	
+entro 001	
+entro 100	
+entro 100	
+entro 100	
+1MEM01
+PRUEBA	 10	1x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 001	
+entro 001	
+entro 001	
+entro 001	
+entro 001	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM01
+PRUEBA	 10	1x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 001	
+entro 001	
+entro 001	
+entro 001	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM01
+PRUEBA	 10	1x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 001	
+entro 001	
+entro 001	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM01
+PRUEBA	 10	1x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 001	
+entro 001	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM01
+PRUEBA	 10	1x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 001	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM01
+PRUEBA	 10	1x21
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!21x21
+3MEM00
+pos001
+PRUEBA	 10	1x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!21x20
+3MEM01
+pos011
+PRUEBA	 10	1x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 001	
+entro 001	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM01
+PRUEBA	 10	1x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 001	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM01
+PRUEBA	 10	1x21
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!21x21
+3MEM00
+pos001
+PRUEBA	 10	1x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!21x20
+3MEM01
+pos011
+ISim P.20131013 (signature 0x7708f090)
+WARNING: A WEBPACK license was found.
+WARNING: Please use Xilinx License Configuration Manager to check out a full ISim license.
+WARNING: ISim will run in Lite mode. Please refer to the ISim documentation for more information on the differences between the Lite and the Full version.
+This is a Lite version of ISim.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+pos0x0
+PRUEBA	 xx	xx2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!xxx2x
+PRUEBA	 xx	xx2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!xxx2x
+PRUEBA	 xx	xx2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!xxx2x
+PRUEBA	 xx	xx2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!xxx2x
+PRUEBA	 xx	xx2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!xxx2x
+PRUEBA	 xx	xx2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!xxx2x
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA1x
+PRUEBA	 10	1x2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!21x2x
+3MEM00
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA2x
+pos000
+PRUEBA	 10	2x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 001	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM01
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA30
+pos010
+pos011
+PRUEBA	 10	3x21
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x21
+3MEM00
+pos001
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM03
+pos031
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM03
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM03
+pos032
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM03
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM03
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM03
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM03
+pos033
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 011	
+entro 011	
+entro 011	
+entro 011	
+entro 011	
+entro 011	
+entro 011	
+entro 100	
+1MEM03
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 011	
+entro 011	
+entro 011	
+entro 011	
+entro 011	
+entro 011	
+entro 100	
+entro 100	
+1MEM03
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 011	
+entro 011	
+entro 011	
+entro 011	
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 011	
+entro 011	
+entro 011	
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 011	
+entro 011	
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 011	
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+PRUEBA	 10	3x21
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x21
+3MEM00
+pos003
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM03
+pos033
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA10
+PRUEBA	 10	1x21
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!21x21
+3MEM00
+pos003
+PRUEBA	 10	1x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!21x20
+3MEM01
+pos013
+PRUEBA	 10	1x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!21x20
+3MEM01
+PRUEBA	 10	1x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!21x20
+3MEM01
+pos012
+PRUEBA	 10	1x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!21x20
+3MEM01
+PRUEBA	 10	1x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!21x20
+3MEM01
+PRUEBA	 10	1x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!21x20
+3MEM01
+PRUEBA	 10	1x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!21x20
+3MEM01
+pos011
+PRUEBA	 10	1x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 001	
+entro 001	
+entro 001	
+entro 001	
+entro 001	
+entro 001	
+entro 001	
+entro 001	
+entro 100	
+1MEM01
+PRUEBA	 10	1x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 001	
+entro 001	
+entro 001	
+entro 001	
+entro 001	
+entro 001	
+entro 001	
+entro 100	
+entro 100	
+1MEM01
+PRUEBA	 10	1x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 001	
+entro 001	
+entro 001	
+entro 001	
+entro 001	
+entro 001	
+entro 100	
+entro 100	
+entro 100	
+1MEM01
+PRUEBA	 10	1x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 001	
+entro 001	
+entro 001	
+entro 001	
+entro 001	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM01
+PRUEBA	 10	1x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 001	
+entro 001	
+entro 001	
+entro 001	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM01
+PRUEBA	 10	1x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 001	
+entro 001	
+entro 001	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM01
+PRUEBA	 10	1x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 001	
+entro 001	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM01
+PRUEBA	 10	1x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 001	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM01
+PRUEBA	 10	1x21
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!21x21
+3MEM00
+pos001
+PRUEBA	 10	1x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!21x20
+3MEM01
+pos011
+PRUEBA	 10	1x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 001	
+entro 001	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM01
+PRUEBA	 10	1x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 001	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM01
+PRUEBA	 10	1x21
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!21x21
+3MEM00
+pos001
+PRUEBA	 10	1x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!21x20
+3MEM01
+pos011
+ISim P.20131013 (signature 0x7708f090)
+WARNING: A WEBPACK license was found.
+WARNING: Please use Xilinx License Configuration Manager to check out a full ISim license.
+WARNING: ISim will run in Lite mode. Please refer to the ISim documentation for more information on the differences between the Lite and the Full version.
+This is a Lite version of ISim.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+POOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOS x0
+PRUEBA	 xx	xx2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!xxx2x
+PRUEBA	 xx	xx2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!xxx2x
+PRUEBA	 xx	xx2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!xxx2x
+PRUEBA	 xx	xx2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!xxx2x
+PRUEBA	 xx	xx2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!xxx2x
+PRUEBA	 xx	xx2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!xxx2x
+PRUEBA	 10	1x2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!21x2x
+3MEM00
+POOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOS 00
+PRUEBA	 10	2x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 001	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM01
+POOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOS 10
+POOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOS 11
+PRUEBA	 10	3x21
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x21
+3MEM00
+POOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOS 01
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM03
+POOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOS 31
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM03
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM03
+POOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOS 32
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM03
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM03
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM03
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM03
+POOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOS 33
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 011	
+entro 011	
+entro 011	
+entro 011	
+entro 011	
+entro 011	
+entro 011	
+entro 100	
+1MEM03
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 011	
+entro 011	
+entro 011	
+entro 011	
+entro 011	
+entro 011	
+entro 100	
+entro 100	
+1MEM03
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 011	
+entro 011	
+entro 011	
+entro 011	
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 011	
+entro 011	
+entro 011	
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 011	
+entro 011	
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 011	
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+PRUEBA	 10	3x21
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x21
+3MEM00
+POOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOS 03
+PRUEBA	 10	3x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM03
+POOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOS 33
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+PRUEBA	 10	3x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 011	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM03
+PRUEBA	 10	1x21
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!21x21
+3MEM00
+POOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOS 03
+PRUEBA	 10	1x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!21x20
+3MEM01
+POOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOS 13
+PRUEBA	 10	1x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!21x20
+3MEM01
+PRUEBA	 10	1x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!21x20
+3MEM01
+POOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOS 12
+PRUEBA	 10	1x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!21x20
+3MEM01
+PRUEBA	 10	1x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!21x20
+3MEM01
+PRUEBA	 10	1x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!21x20
+3MEM01
+PRUEBA	 10	1x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!21x20
+3MEM01
+POOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOS 11
+PRUEBA	 10	1x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 001	
+entro 001	
+entro 001	
+entro 001	
+entro 001	
+entro 001	
+entro 001	
+entro 001	
+entro 100	
+1MEM01
+PRUEBA	 10	1x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 001	
+entro 001	
+entro 001	
+entro 001	
+entro 001	
+entro 001	
+entro 001	
+entro 100	
+entro 100	
+1MEM01
+PRUEBA	 10	1x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 001	
+entro 001	
+entro 001	
+entro 001	
+entro 001	
+entro 001	
+entro 100	
+entro 100	
+entro 100	
+1MEM01
+PRUEBA	 10	1x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 001	
+entro 001	
+entro 001	
+entro 001	
+entro 001	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM01
+PRUEBA	 10	1x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 001	
+entro 001	
+entro 001	
+entro 001	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM01
+PRUEBA	 10	1x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 001	
+entro 001	
+entro 001	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM01
+PRUEBA	 10	1x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 001	
+entro 001	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM01
+PRUEBA	 10	1x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 001	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM01
+PRUEBA	 10	1x21
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!21x21
+3MEM00
+POOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOS 01
+PRUEBA	 10	1x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!21x20
+3MEM01
+POOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOS 11
+PRUEBA	 10	1x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 001	
+entro 001	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM01
+PRUEBA	 10	1x21
+entroooo!!!!!!!!!!!!!!!!!!!!!!!
+entro 001	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+entro 100	
+1MEM01
+PRUEBA	 10	1x21
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!21x21
+3MEM00
+POOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOS 01
+PRUEBA	 10	1x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!21x20
+3MEM01
+POOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOS 11
+ISim P.20131013 (signature 0x7708f090)
+WARNING: A WEBPACK license was found.
+WARNING: Please use Xilinx License Configuration Manager to check out a full ISim license.
+WARNING: ISim will run in Lite mode. Please refer to the ISim documentation for more information on the differences between the Lite and the Full version.
+This is a Lite version of ISim.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+POOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOS x0
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!xxx2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!xxx2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!xxx2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!xxx2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!xxx2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!xxx2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!21x2x
+3MEM0 0
+POOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOS 00
+1MEM0 1
+POOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOS 10
+POOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOS 11
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x21
+3MEM0 0
+POOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOS 01
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM0 3
+POOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOS 31
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM0 3
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM0 3
+POOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOS 32
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM0 3
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM0 3
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM0 3
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM0 3
+POOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOS 33
+1MEM0 3
+1MEM0 3
+1MEM0 3
+1MEM0 3
+1MEM0 3
+1MEM0 3
+1MEM0 3
+1MEM0 3
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x21
+3MEM0 0
+POOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOS 03
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM0 3
+POOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOS 33
+1MEM0 3
+1MEM0 3
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!21x21
+3MEM0 0
+POOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOS 03
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!21x20
+3MEM0 1
+POOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOS 13
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!21x20
+3MEM0 1
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!21x20
+3MEM0 1
+POOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOS 12
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!21x20
+3MEM0 1
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!21x20
+3MEM0 1
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!21x20
+3MEM0 1
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!21x20
+3MEM0 1
+POOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOS 11
+1MEM0 1
+1MEM0 1
+1MEM0 1
+1MEM0 1
+1MEM0 1
+1MEM0 1
+1MEM0 1
+1MEM0 1
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!21x21
+3MEM0 0
+POOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOS 01
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!21x20
+3MEM0 1
+POOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOS 11
+1MEM0 1
+1MEM0 1
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!21x21
+3MEM0 0
+POOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOS 01
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!21x20
+3MEM0 1
+POOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOS 11
+ISim P.20131013 (signature 0x7708f090)
+WARNING: A WEBPACK license was found.
+WARNING: Please use Xilinx License Configuration Manager to check out a full ISim license.
+WARNING: ISim will run in Lite mode. Please refer to the ISim documentation for more information on the differences between the Lite and the Full version.
+This is a Lite version of ISim.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+POOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOS x0
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!xxx2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!xxx2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!xxx2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!xxx2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!xxx2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!xxx2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!21x2x
+3MEM0 1
+3MEM0 0
+POOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOS 00
+1MEM0 1
+POOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOS 10
+POOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOS 11
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x21
+3MEM0 3
+3MEM0 0
+POOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOS 01
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM0 3
+3MEM0 3
+POOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOS 31
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM0 3
+3MEM0 3
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM0 3
+3MEM0 3
+POOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOS 32
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM0 3
+3MEM0 3
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM0 3
+3MEM0 3
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM0 3
+3MEM0 3
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM0 3
+3MEM0 3
+POOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOS 33
+1MEM0 3
+1MEM0 3
+1MEM0 3
+1MEM0 3
+1MEM0 3
+1MEM0 3
+1MEM0 3
+1MEM0 3
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x21
+3MEM0 3
+3MEM0 0
+POOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOS 03
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM0 3
+3MEM0 3
+POOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOS 33
+1MEM0 3
+1MEM0 3
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!21x21
+3MEM0 1
+3MEM0 0
+POOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOS 03
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!21x20
+3MEM0 1
+3MEM0 1
+POOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOS 13
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!21x20
+3MEM0 1
+3MEM0 1
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!21x20
+3MEM0 1
+3MEM0 1
+POOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOS 12
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!21x20
+3MEM0 1
+3MEM0 1
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!21x20
+3MEM0 1
+3MEM0 1
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!21x20
+3MEM0 1
+3MEM0 1
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!21x20
+3MEM0 1
+3MEM0 1
+POOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOS 11
+1MEM0 1
+1MEM0 1
+1MEM0 1
+1MEM0 1
+1MEM0 1
+1MEM0 1
+1MEM0 1
+1MEM0 1
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!21x21
+3MEM0 1
+3MEM0 0
+POOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOS 01
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!21x20
+3MEM0 1
+3MEM0 1
+POOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOS 11
+1MEM0 1
+1MEM0 1
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!21x21
+3MEM0 1
+3MEM0 0
+POOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOS 01
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!21x20
+3MEM0 1
+3MEM0 1
+POOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOS 11
+ISim P.20131013 (signature 0x7708f090)
+WARNING: A WEBPACK license was found.
+WARNING: Please use Xilinx License Configuration Manager to check out a full ISim license.
+WARNING: ISim will run in Lite mode. Please refer to the ISim documentation for more information on the differences between the Lite and the Full version.
+This is a Lite version of ISim.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+POOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOS x0
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!xxx2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!xxx2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!xxx2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!xxx2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!xxx2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!xxx2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!21x2x
+3MEM0!!! 1
+3MEM0 0
+POOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOS 00
+1MEM0 1
+POOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOS 10
+POOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOS 11
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x21
+3MEM0!!! 3
+3MEM0 0
+POOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOS 01
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM0!!! 3
+3MEM0 3
+POOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOS 31
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM0!!! 3
+3MEM0 3
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM0!!! 3
+3MEM0 3
+POOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOS 32
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM0!!! 3
+3MEM0 3
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM0!!! 3
+3MEM0 3
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM0!!! 3
+3MEM0 3
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM0!!! 3
+3MEM0 3
+POOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOS 33
+1MEM0 3
+1MEM0 3
+1MEM0 3
+1MEM0 3
+1MEM0 3
+1MEM0 3
+1MEM0 3
+1MEM0 3
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x21
+3MEM0!!! 3
+3MEM0 0
+POOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOS 03
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM0!!! 3
+3MEM0 3
+POOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOS 33
+1MEM0 3
+1MEM0 3
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!21x21
+3MEM0!!! 1
+3MEM0 0
+POOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOS 03
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!21x20
+3MEM0!!! 1
+3MEM0 1
+POOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOS 13
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!21x20
+3MEM0!!! 1
+3MEM0 1
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!21x20
+3MEM0!!! 1
+3MEM0 1
+POOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOS 12
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!21x20
+3MEM0!!! 1
+3MEM0 1
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!21x20
+3MEM0!!! 1
+3MEM0 1
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!21x20
+3MEM0!!! 1
+3MEM0 1
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!21x20
+3MEM0!!! 1
+3MEM0 1
+POOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOS 11
+1MEM0 1
+1MEM0 1
+1MEM0 1
+1MEM0 1
+1MEM0 1
+1MEM0 1
+1MEM0 1
+1MEM0 1
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!21x21
+3MEM0!!! 1
+3MEM0 0
+POOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOS 01
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!21x20
+3MEM0!!! 1
+3MEM0 1
+POOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOS 11
+1MEM0 1
+1MEM0 1
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!21x21
+3MEM0!!! 1
+3MEM0 0
+POOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOS 01
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!21x20
+3MEM0!!! 1
+3MEM0 1
+POOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOS 11
+ISim P.20131013 (signature 0x7708f090)
+WARNING: A WEBPACK license was found.
+WARNING: Please use Xilinx License Configuration Manager to check out a full ISim license.
+WARNING: ISim will run in Lite mode. Please refer to the ISim documentation for more information on the differences between the Lite and the Full version.
+This is a Lite version of ISim.
+WARNING: File "D:/Proyectos/Proyecto2Taller/P2-TD/top.v" Line 42.  For instance uut/comp3/, width 3 of formal port nextMemoryFloor is not equal to width 2 of actual signal nextMemFloor_Button.
+WARNING: File "D:/Proyectos/Proyecto2Taller/P2-TD/top.v" Line 42.  For instance uut/mem/, width 3 of formal port buttonFloor_Input is not equal to width 2 of actual signal nextMemFloor_Button.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+POOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOS x0
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!2Zx2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!2Zx2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!2Zx2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!2Zx2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!2Zx2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!2Zx2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!2Zx2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!2Zx2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!2Zx2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!2Zx2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!2Zx2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!2Zx2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!2Zx2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!2Zx2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!2Zx2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!2Zx2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!2Zx2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!2Zx2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!2Zx2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!2Zx2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!2Zx2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!2Zx2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!2Zx2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!2Zx2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!2Zx2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!2Zx2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!2Zx2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!2Zx2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!2Zx2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!2Zx2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!2Zx2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!2Zx2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!2Zx2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!2Zx2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!2Zx2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!2Zx2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!2Zx2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!2Zx2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!2Zx2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!2Zx2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!2Zx2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!2Zx2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!2Zx2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!2Zx2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!2Zx2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!2Zx2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!2Zx2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!2Zx2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!2Zx2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!2Zx2x
+ISim P.20131013 (signature 0x7708f090)
+WARNING: A WEBPACK license was found.
+WARNING: Please use Xilinx License Configuration Manager to check out a full ISim license.
+WARNING: ISim will run in Lite mode. Please refer to the ISim documentation for more information on the differences between the Lite and the Full version.
+This is a Lite version of ISim.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+POOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOS x0
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!21x2x
+3MEM0!!! 1
+3MEM0 0
+POOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOS 00
+1MEM0 1
+POOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOS 10
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x20
+POOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOS 11
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x21
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x21
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x21
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x21
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x21
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x21
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x21
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x21
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x21
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x21
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x21
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x21
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x21
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x21
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x21
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x21
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x21
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x21
+ISim P.20131013 (signature 0x7708f090)
+WARNING: A WEBPACK license was found.
+WARNING: Please use Xilinx License Configuration Manager to check out a full ISim license.
+WARNING: ISim will run in Lite mode. Please refer to the ISim documentation for more information on the differences between the Lite and the Full version.
+This is a Lite version of ISim.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+POOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOS x0
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x2x
+ISim P.20131013 (signature 0x7708f090)
+WARNING: A WEBPACK license was found.
+WARNING: Please use Xilinx License Configuration Manager to check out a full ISim license.
+WARNING: ISim will run in Lite mode. Please refer to the ISim documentation for more information on the differences between the Lite and the Full version.
+This is a Lite version of ISim.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA 4
+Finished circuit initialization process.
+POOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOS x0
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x2x
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA 1
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA 4
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x2x
+ISim P.20131013 (signature 0x7708f090)
+WARNING: A WEBPACK license was found.
+WARNING: Please use Xilinx License Configuration Manager to check out a full ISim license.
+WARNING: ISim will run in Lite mode. Please refer to the ISim documentation for more information on the differences between the Lite and the Full version.
+This is a Lite version of ISim.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+POOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOS x0
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!xxxxx
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!xxxxx
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!xxxxx
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!xxxxx
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!xxxxx
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!xxxxx
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA 1
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA 4
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24xxx
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24xxx
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24xxx
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24xxx
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24xxx
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24xxx
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24xxx
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24xxx
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24xxx
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24xxx
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24xxx
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24xxx
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24xxx
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24xxx
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24xxx
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24xxx
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24xxx
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24xxx
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24xxx
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24xxx
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24xxx
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24xxx
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24xxx
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24xxx
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24xxx
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24xxx
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24xxx
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24xxx
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24xxx
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24xxx
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24xxx
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24xxx
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24xxx
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24xxx
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24xxx
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24xxx
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24xxx
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24xxx
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24xxx
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24xxx
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24xxx
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24xxx
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24xxx
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24xxx
+ISim P.20131013 (signature 0x7708f090)
+WARNING: A WEBPACK license was found.
+WARNING: Please use Xilinx License Configuration Manager to check out a full ISim license.
+WARNING: ISim will run in Lite mode. Please refer to the ISim documentation for more information on the differences between the Lite and the Full version.
+This is a Lite version of ISim.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+POOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOS x0
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!xxxxx
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!xxxxx
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!xxxxx
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!xxxxx
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!xxxxx
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!xxxxx
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA 1
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!21xxx
+3MEM0!!! 1
+3MEM0 0
+POOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOS 00
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA 4
+1MEM0 1
+POOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOS 10
+POOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOS 11
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24xx1
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24xx1
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24xx1
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24xx1
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24xx1
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24xx1
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24xx1
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24xx1
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24xx1
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24xx1
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24xx1
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24xx1
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24xx1
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24xx1
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24xx1
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24xx1
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24xx1
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24xx1
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24xx1
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24xx1
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24xx1
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24xx1
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24xx1
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24xx1
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24xx1
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24xx1
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24xx1
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24xx1
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24xx1
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24xx1
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24xx1
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24xx1
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24xx1
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24xx1
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24xx1
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24xx1
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24xx1
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24xx1
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24xx1
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24xx1
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24xx1
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24xx1
+ISim P.20131013 (signature 0x7708f090)
+WARNING: A WEBPACK license was found.
+WARNING: Please use Xilinx License Configuration Manager to check out a full ISim license.
+WARNING: ISim will run in Lite mode. Please refer to the ISim documentation for more information on the differences between the Lite and the Full version.
+This is a Lite version of ISim.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA 4
+Finished circuit initialization process.
+POOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOS x0
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x2x
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA 1
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!21x2x
+3MEM0!!! 1
+3MEM0 0
+POOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOS 00
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA 4
+1MEM0 1
+POOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOS 10
+POOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOS 11
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x21
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x21
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x21
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x21
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x21
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x21
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x21
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x21
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x21
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x21
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x21
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x21
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x21
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x21
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x21
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x21
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x21
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x21
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x21
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x21
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x21
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x21
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x21
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x21
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x21
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x21
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x21
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x21
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x21
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x21
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x21
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x21
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x21
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x21
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x21
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x21
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x21
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x21
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x21
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x21
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x21
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x21
+ISim P.20131013 (signature 0x7708f090)
+WARNING: A WEBPACK license was found.
+WARNING: Please use Xilinx License Configuration Manager to check out a full ISim license.
+WARNING: ISim will run in Lite mode. Please refer to the ISim documentation for more information on the differences between the Lite and the Full version.
+This is a Lite version of ISim.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA 4
+Finished circuit initialization process.
+POOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOS x0
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x2x
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA 1
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!21x2x
+3MEM0!!! 1
+3MEM0 0
+POOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOS 00
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA 4
+1MEM0 1
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA 2
+POOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOS 10
+POOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOS 11
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!22x21
+3MEM0!!! 2
+3MEM0 0
+POOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOS 01
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA 4
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x20
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA 3
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23x20
+3MEM0!!! 3
+3MEM0 2
+POOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOS 21
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA 4
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x20
+POOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOS 22
+1MEM0 2
+1MEM0 3
+POOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOS 32
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x20
+POOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOS 33
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x21
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x21
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x21
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x21
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x21
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x21
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x21
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x21
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x21
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x21
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x21
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x21
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x21
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x21
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x21
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA 1
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!21x21
+3MEM0!!! 1
+3MEM0 0
+POOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOS 03
+POOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOS 02
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!21x20
+3MEM0!!! 1
+3MEM0 1
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA 4
+POOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOS 12
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x20
+POOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOS 11
+1MEM0 1
+1MEM0 1
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x21
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x21
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x21
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x21
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x21
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x21
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x21
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x21
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x21
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x21
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x21
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24x21
+ISim P.20131013 (signature 0x7708f090)
+WARNING: A WEBPACK license was found.
+WARNING: Please use Xilinx License Configuration Manager to check out a full ISim license.
+WARNING: ISim will run in Lite mode. Please refer to the ISim documentation for more information on the differences between the Lite and the Full version.
+This is a Lite version of ISim.
+WARNING: File "D:/Proyectos/Proyecto2Taller/P2-TD/top.v" Line 39.  For instance uut/controller/, width 3 of formal port floor_call is not equal to width 2 of actual signal floor_call_Switch.
+WARNING: File "D:/Proyectos/Proyecto2Taller/P2-TD/top.v" Line 39.  For instance uut/comp2/, width 3 of formal port floorCall_Input is not equal to width 2 of actual signal floor_call_Switch.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA 4
+Finished circuit initialization process.
+POOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOS x0
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24Z2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24Z2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24Z2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24Z2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24Z2x
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24Z2x
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA 1
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!21Z2x
+3MEM0!!! 1
+3MEM0 0
+POOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOS 00
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA 4
+1MEM0 1
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA 2
+POOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOS 10
+POOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOS 11
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!22Z21
+3MEM0!!! 2
+3MEM0 0
+POOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOS 01
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA 4
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24Z20
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA 3
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!23Z20
+3MEM0!!! 3
+3MEM0 2
+POOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOS 21
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA 4
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24Z20
+POOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOS 22
+1MEM0 2
+1MEM0 3
+POOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOS 32
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24Z20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24Z20
+POOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOS 33
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24Z21
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24Z21
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24Z21
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24Z21
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24Z21
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24Z21
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24Z21
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24Z21
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24Z21
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24Z21
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24Z21
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24Z21
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24Z21
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24Z21
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24Z21
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA 1
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!21Z21
+3MEM0!!! 1
+3MEM0 0
+POOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOS 03
+POOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOS 02
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!21Z20
+3MEM0!!! 1
+3MEM0 1
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA 4
+POOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOS 12
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24Z20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24Z20
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24Z20
+POOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOS 11
+1MEM0 1
+1MEM0 1
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24Z21
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24Z21
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24Z21
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24Z21
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24Z21
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24Z21
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24Z21
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24Z21
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24Z21
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24Z21
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24Z21
+WWWWWW!!!!!!!!!!!!!!!!!!!!!!!24Z21

@@ -23,8 +23,7 @@ module state_machine(
 	 input RST,
     input stop_go,
     input up_down,
-    input [1:0] floor,
-    output reg [2:0] output_floor
+    output reg [1:0] output_floor
     );
 	
 	reg [1:0] actual_state, next_state;
@@ -69,14 +68,14 @@ module state_machine(
 	always @ (actual_state)
 		case(actual_state)
 			F1:	
-				output_floor = 001;
+				output_floor = 00;
 			F2:		
-				output_floor = 010;
+				output_floor = 01;
 			F3:
-				output_floor = 011;
+				output_floor = 10;
 			F4:		
-				output_floor = 100;
+				output_floor = 11;
 			default:
-				output_floor = 001;
+				output_floor = 00;
 		endcase
 endmodule

@@ -22,20 +22,25 @@ module floor_comparator(
     input [1:0] actualFloor,
     input [1:0] pos0Mem,
     output reg down_upFlag,
-    output reg stop_goFlag
+    output reg stop_goFlag,
+	 output reg deletePos0
     );
 	 
-	 always @ * begin
-		 if(pos0Mem < actualFloor)begin
-			down_upFlag = 0;
-			stop_goFlag = 0;
-		 end else if(pos0Mem == actualFloor)begin
-			down_upFlag = 1;
-			stop_goFlag = 1;
-		 end else if(pos0Mem > actualFloor)begin
-			down_upFlag = 1;
-			stop_goFlag = 0;
-		 end	 
-	 end
-
-endmodule
+	 always @ (*) begin
+	 $display("POOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOS ",pos0Mem,actualFloor);
+			 if(pos0Mem < actualFloor)begin
+				down_upFlag = 0;
+				stop_goFlag = 0;
+				deletePos0 = 0;
+			 end else if(pos0Mem == actualFloor)begin
+				down_upFlag = 0;
+				stop_goFlag = 1;
+				deletePos0 = 1;
+			 end else if(pos0Mem > actualFloor)begin
+				down_upFlag = 1;
+				stop_goFlag = 0;
+				deletePos0 = 0;
+			 end
+	 end 
+	 
+endmodule 

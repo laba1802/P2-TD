@@ -31,13 +31,15 @@ module floor_comparator_tb;
 	// Outputs
 	wire down_upFlag;
 	wire stop_goFlag;
+	wire deletePos0;
 
 	// Instantiate the Unit Under Test (UUT)
 	floor_comparator uut (
 		.actualFloor(actualFloor), 
 		.pos0Mem(pos0Mem), 
 		.down_upFlag(down_upFlag), 
-		.stop_goFlag(stop_goFlag)
+		.stop_goFlag(stop_goFlag),
+		.deletePos0(deletePos0)
 	);
 
 	initial begin

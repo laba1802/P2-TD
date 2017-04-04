@@ -25,15 +25,16 @@ module buttons_controller(
     input third_down,
     input third_up,
     input fourth_down,
-    output reg [1:0] floor_call,
+    output reg [2:0] floor_call,
     output reg up_down_flag
     );
 	 
 	 always @ * begin
-		if(first_up) floor_call = 00;
-		else if(second_down || second_up) floor_call = 01;
-		else if(third_down || third_up) floor_call = 10;
-		else if(fourth_down) floor_call = 11;
+		if(first_up) floor_call = 3'b000;
+		else if(second_down || second_up) floor_call = 3'b001;
+		else if(third_down || third_up) floor_call = 3'b010;
+		else if(fourth_down) floor_call = 3'b011;
+		else floor_call = 3'b100;
 	 end
 	 
 	 always @ * begin
